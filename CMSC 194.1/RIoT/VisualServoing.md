@@ -1,0 +1,7 @@
+Zapotezny-Anderson, P. and Lehnert, C. (2019) “Towards active robotic vision in agriculture: A deep learning approach to visual servoing in occluded and unstructured protected cropping environments,” _IFAC-PapersOnLine_, 52(30), pp. 120–125. Available at: https://doi.org/10.1016/j.ifacol.2019.12.508.
+
+In  this article, Zapotezny-Anderson and Lenhert integrates a Convolutional Neural Network (CNN) into the 3D Move To See (3DMTS) method creating a Deep-3DMTS approach. This approach is used in robotic crop harvesters which improves the crop harvesters ability to detect crops blocked by leaves or any obstructions. The authors found that the Deep-3DMTS approach had a slight improvement of providing a clear view of the crop.
+
+However, the obvious limitation is that the method is only tested in a simulation, with a single object (a leaf) obstructing the view over the crop. If and when tested in a real world scenario, the success rate may change. More than that, the other obvious limitation is that there is only a single object used to obstruct vision over the crop. Training the CNN may take unimaginably longer when it is made to factor in multiple obstructions.
+
+While this article is closely related to my research topic, it heavily focuses on the integration of Deep Learning in existing crop detection methods. This will not be the basis of my research. However, it is helpful to know more about the applications of Machine Learning in robotics and intelligent systems.

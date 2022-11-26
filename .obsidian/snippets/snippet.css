@@ -1,0 +1,42 @@
+/* reading mode */
+.markdown-preview-view p {
+	text-align: justify;
+	text-justify: inter-word;	
+}
+
+.markdown-preview-section strong {
+  color: #45de6e !important;
+}
+
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: #03dbfc !important;
+}
+
+/* Different color for italic */
+.cm-em {
+    color: #f22470;
+	font-style:  !important;
+}
+
+of italics in Preview  all notes in a vault 
+.markdown-preview-section em { 
+    color: #f22470! important; 
+	font-style:  !important; 
+} 
+.markdown-source-view, .markdown-preview-view {
+	max-width: 1400px;
+	margin: auto;
+}
+
+p {
+	text-align: justify;
+	text-justify: inter-word;	
+}
+
+/* source view and live preview */
+.markdown-source-view.mod-cm6 .cm-line {
+	text-align: justify;
+	text-justify: inter-word;	
+}

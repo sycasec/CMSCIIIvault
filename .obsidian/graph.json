@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "CMSC",
+      "color": {
+        "a": 1,
+        "rgb": 16714250
+      }
+    },
+    {
+      "query": "path:\"CMSC 192 D\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"CMSC 142\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"CMSC 194.1\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:CMSC_128",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:CMSC_124",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:lit4",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:STS",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Root - Temp\"",
+      "color": {
+        "a": 1,
+        "rgb": 1626368
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.04993686399762,
+  "lineSizeMultiplier": 1.04784524975514,
+  "collapse-forces": false,
+  "centerStrength": 0.816534204857758,
+  "repelStrength": 13.0996063284558,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.11059274445977903,
+  "close": true
+}

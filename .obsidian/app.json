@@ -1,0 +1,14 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "vimMode": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

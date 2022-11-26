@@ -1,0 +1,7 @@
+Enkovaara, J. _et al._ (2011) “GPAW - massively parallel electronic structure calculations with python-based software,” _Procedia Computer Science_, 4, pp. 17–25. Available at: https://doi.org/10.1016/j.procs.2011.04.003.
+
+In this article, Enkovaraa and colleagues implements a massively parallel electronic structure simulation software using GPAW, which is an open source electronic structure library. The authors implemented this in a combination of C, CPython and Python. The authors then tested the overall performance of software and found that it performs within 25% of peak floating point performance. The authors have achieved this through the modification of CPython parallel import headers, allowing for a rapidly fast startup time.
+
+An obvious limitation in this study is that the authors do not compare the performance of the newly developed simulation software against existing solutions. This is understandable, since most other simulation softwares are coded in compiled languages. The authors themselves noted that there is a need to utilize threading to increase the software's performance.
+
+While this article provides interesting detail in the optimization of large-scale supercomputing software, it is unfortunately unrelated to my research interest and will not form the basis of my research.

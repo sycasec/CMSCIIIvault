@@ -1,0 +1,7 @@
+Johnson, J.M. and Rahmat-samii, Y. (2002) “Genetic algorithm optimization and its application to antenna design,” _Proceedings of IEEE Antennas and Propagation Society International Symposium and URSI National Radio Science Meeting_, 1, pp. 326–329. Available at: https://doi.org/10.1109/aps.1994.407746.
+
+In this article, Johnson and Rahmat-samii present a novel (in 2002) optimization method called Genetic Algorithm (GA) optimization applied in antenna design. The authors first describe the various limitations of traditional optimization techniques and describe two designs, the first being unconstrained with varying amplitude and phase, and second with a constant amplitude. The authors then present a diagram of the GA optimizer developed for antenna design.
+
+The obvious limitation of this article is that the authors do not present exact schematics of their design, and there is no testing data, nor any comparison data against existing solutions. This is probably due to patent limitations, which is understandable.
+
+This article presents interesting information in the early roots of true random sampling, with the development and usage of a novel optimization method in antenna design. However, it is unrelated to my research topic.

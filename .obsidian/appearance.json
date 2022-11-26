@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 12,
+  "translucency": true,
+  "interfaceFontFamily": "Inter,Hack NF",
+  "textFontFamily": "",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "accentColor": "#31f291",
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
+}

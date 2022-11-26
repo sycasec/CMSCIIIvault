@@ -1,0 +1,31 @@
+- Suroy-suroy sa sugbo, Tsismis 
+	- Dalanon
+	- Miranda
+	- Ybiernas
+- Tubag sa Manananggal, Usa ka gabii sa blue grass
+	- ethan
+	- vlad
+- patay na tuod si maria clara
+	- rai
+	- rin
+	- justine
+- yamog, pagtultol sa pista
+	- jav
+	- alwyn
+	- goody
+- kutay sa kinabuhi, patulo sa tago
+	- dustin
+	- myka
+	- justin
+- soneto en bisaya a la virgen, kahingipitan
+	- gonzales
+	- molanda
+	- estano
+- toasting instructions, /zipper/
+	- sam tupa
+	- johannes
+- girl fixing her hair, ang kinabuhi sama sa laud
+	- minguez
+	- napoles
+	- salacut
+- 

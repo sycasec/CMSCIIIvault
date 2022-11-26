@@ -1,0 +1,5 @@
+Albacea, E.A. (1995) “Leapfrogging Samplesort,” _Algorithms, Concurrency and Knowledge_, 1023, pp. 1–9. Available at: https://doi.org/10.1007/3-540-60688-2_30.
+
+In this article, Albacea presents a Quicksort-based sorting algorithm that performs at $O(n(log n)^{2})$  at worst case, claiming that it is the most practical alternative to Quicksort. The author presents their analysis of the algorithm's performance at worst-case and average-case, concluding that the novel algorithm has better average comparisons and data interchanges than that required by the best implementation of Quicksort.
+
+While this article is highly interesting in that there is a mathematical development creating more efficient sorting techniques, it unrelated to my research topic and will only serve as supplemental reading.

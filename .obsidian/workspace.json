@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "e76acd00076bf0db",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0c3cc5106cfd74e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95edaee26f73fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBMDataEng/CourseOne/CourseOneRoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8680523b2832c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBMDataEng/CourseOne/CourseOneRoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b67f025d14400e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBMDataEng/CourseOne/CourseOneRoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65a406aa2ab4bd7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b523a3fc193eb4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e6a0eb4b8ee90a",
+        "type": "tabs",
+        "dimension": 71.31782945736434,
+        "children": [
+          {
+            "id": "2d3bd9e09c882955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "0e9efd0fb4d6f5c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1176ea7eca252742",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a225c18cac8df20f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "93a7e2b2faa8db73",
+        "type": "tabs",
+        "dimension": 28.68217054263566,
+        "children": [
+          {
+            "id": "1dfe2df3cc331d91",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "362628d18b5136e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1194631bb68011d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c00347e1159ac09c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "root.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29090c75235906f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "root.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84e0d1dac5956f5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "712b3c8c19a878e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "root.md"
+              }
+            }
+          },
+          {
+            "id": "357934abd3ffa586",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "79c3a57c1477da0c",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5b3ffc8478f9b25",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65a406aa2ab4bd7f",
+  "lastOpenFiles": [
+    "Database/DatabaseInterfaceRoot.md",
+    "root.md",
+    "ActuallyUsefulStuff.md",
+    "Daily Log/Sat@2022-11-26.md",
+    "CMSC 192 D/Wk_IV_discussion.md",
+    "CMSC 192 D/Week 2/IntroToComEthButEthics.md",
+    "CMSC 192 D/Week 2/Week2.md",
+    "CMSC 192 D/Week 2/IntroToComEth.md",
+    "CMSC 192 D/week6/Week 6.md",
+    "CMSC 192 D/week6/week6lec.md"
+  ]
+}
