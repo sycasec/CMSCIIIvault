@@ -1,4 +1,4 @@
-[[root]]
+[[VaultRoot]]
 
 [[Week 1]]
 - [[Kantian Ethics]]

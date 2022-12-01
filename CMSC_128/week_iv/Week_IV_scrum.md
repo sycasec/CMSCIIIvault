@@ -166,4 +166,37 @@ https://sites.google.com/a/scrumplop.org/published-patterns/
 ##### Timeline Retrospective
 - team discusses the entire timeline of the sprint
 ##### Decisions
-- 
+
+
+## Values of Scrum
+- Commitment 
+- Courage - call out bad behavior
+- Focus - team focus
+- Openness - share insights on how to handle issues
+- respect 
+
+
+## Essential Scrum Roles
+- Mission - why we're doing the work
+- Vision - what the work we do
+
+- product owner is responsible for discussing mission and vision
+- dev team will del
+
+## Skills
+- cross functional
+- self-organizing
+
+### Traits of an Effective Scrum Master
+- gaslights everyone into doing scrum
+- coach team on scrum practices
+- manage product backlog
+	- product features/reqs
+- facilitate scrum events
+- remove blockers
+- Project Manager
+	- budget management
+	- risk spreadsheets
+- Scrum Master
+	- decision making
+	- communicating

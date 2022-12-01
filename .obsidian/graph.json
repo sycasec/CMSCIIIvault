@@ -1,86 +1,107 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "CMSC",
+      "query": "VaultRoot",
       "color": {
         "a": 1,
-        "rgb": 16714250
+        "rgb": 16711680
       }
     },
     {
-      "query": "path:\"CMSC 192 D\"",
+      "query": "DailyLog",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14701233
       }
     },
     {
-      "query": "path:\"CMSC 142\"",
+      "query": "cmsc 124",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 15254653
       }
     },
     {
-      "query": "path:\"CMSC 194.1\"",
+      "query": "cmsc 192",
+      "color": {
+        "a": 1,
+        "rgb": 544893
+      }
+    },
+    {
+      "query": "Ethics",
+      "color": {
+        "a": 1,
+        "rgb": 544893
+      }
+    },
+    {
+      "query": "STS",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:CMSC_128",
+      "query": "cmsc 194",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 4718588
       }
     },
     {
-      "query": "path:CMSC_124",
+      "query": "cmsc 142",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 13184052
       }
     },
     {
-      "query": "path:lit4",
+      "query": "cmsc 128",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "path:STS",
+      "query": "cmsc 110",
       "color": {
         "a": 1,
         "rgb": 11621088
       }
     },
     {
-      "query": "path:\"Root - Temp\"",
+      "query": "DataEng",
       "color": {
         "a": 1,
-        "rgb": 1626368
+        "rgb": 8388863
+      }
+    },
+    {
+      "query": "lit",
+      "color": {
+        "a": 1,
+        "rgb": 13722880
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.04993686399762,
-  "lineSizeMultiplier": 1.04784524975514,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.816534204857758,
-  "repelStrength": 13.0996063284558,
+  "centerStrength": 0.887840748718711,
+  "repelStrength": 13.0030453836441,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.11059274445977903,
+  "linkDistance": 56,
+  "scale": 0.1945002269061597,
   "close": true
 }

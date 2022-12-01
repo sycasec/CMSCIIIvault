@@ -1,16 +1,172 @@
 {
   "recentFiles": [
     {
-      "basename": "root",
-      "path": "root.md"
+      "basename": "Week 13",
+      "path": "CMSC_124/Week 13.md"
     },
     {
-      "basename": "DatabaseInterfaceRoot",
-      "path": "Database/DatabaseInterfaceRoot.md"
+      "basename": "NLPRoot",
+      "path": "CMSC 194.1/NLP/NLPRoot.md"
+    },
+    {
+      "basename": "NeuralNetwork",
+      "path": "DeepLearningAI/CourseOne/NeuralNetwork.md"
+    },
+    {
+      "basename": "What is Research",
+      "path": "CMSC 110/What is Research.md"
+    },
+    {
+      "basename": "DeepLearningRoot",
+      "path": "DeepLearningAI/DeepLearningRoot.md"
+    },
+    {
+      "basename": "Week_IV_scrum",
+      "path": "CMSC_128/week_iv/Week_IV_scrum.md"
+    },
+    {
+      "basename": "Thu@2022-12-1",
+      "path": "Daily Log/Thu@2022-12-1.md"
+    },
+    {
+      "basename": "BigData",
+      "path": "IBMDataEng/CourseOne/BigData.md"
+    },
+    {
+      "basename": "CourseOneRoot",
+      "path": "IBMDataEng/CourseOne/CourseOneRoot.md"
+    },
+    {
+      "basename": "DataTypes",
+      "path": "IBMDataEng/CourseOne/DataTypes.md"
+    },
+    {
+      "basename": "ibmdataengroot",
+      "path": "IBMDataEng/ibmdataengroot.md"
+    },
+    {
+      "basename": "CebuanoLanguage",
+      "path": "CMSC 194.1/NLP/CebuanoLanguage.md"
+    },
+    {
+      "basename": "RDBMS",
+      "path": "IBMDataEng/CourseOne/RDBMS.md"
+    },
+    {
+      "basename": "ProjectManagement1",
+      "path": "ProjectManagement/ProjectManagement1.md"
+    },
+    {
+      "basename": "Tue@2022-11-29",
+      "path": "Daily Log/Tue@2022-11-29.md"
+    },
+    {
+      "basename": "Wed@2022-11-30",
+      "path": "Daily Log/Wed@2022-11-30.md"
+    },
+    {
+      "basename": "DataLanguages",
+      "path": "IBMDataEng/CourseOne/DataLanguages.md"
+    },
+    {
+      "basename": "Ecosystem",
+      "path": "IBMDataEng/CourseOne/Ecosystem.md"
+    },
+    {
+      "basename": "DataSources",
+      "path": "IBMDataEng/CourseOne/DataSources.md"
+    },
+    {
+      "basename": "Responsibilities",
+      "path": "IBMDataEng/CourseOne/Responsibilities.md"
+    },
+    {
+      "basename": "FileFormats",
+      "path": "IBMDataEng/CourseOne/FileFormats.md"
+    },
+    {
+      "basename": "Metadata",
+      "path": "IBMDataEng/CourseOne/Metadata.md"
+    },
+    {
+      "basename": "MachineLearningRoot",
+      "path": "IBMMachineLearning/MachineLearningRoot.md"
+    },
+    {
+      "basename": "VaultRoot",
+      "path": "VaultRoot.md"
+    },
+    {
+      "basename": "latex_snips",
+      "path": "latex_snips.md"
     },
     {
       "basename": "ActuallyUsefulStuff",
       "path": "ActuallyUsefulStuff.md"
+    },
+    {
+      "basename": "Ang Bisita",
+      "path": "lit4/Sugilanon/Ang Bisita.md"
+    },
+    {
+      "basename": "sugilanonroot",
+      "path": "lit4/Sugilanon/sugilanonroot.md"
+    },
+    {
+      "basename": "Love's Bad Dream - Daman sa Gugma",
+      "path": "lit4/Sugilanon/Love's Bad Dream - Daman sa Gugma.md"
+    },
+    {
+      "basename": "Week 6",
+      "path": "CMSC 192 D/week6/Week 6.md"
+    },
+    {
+      "basename": "Week_IV_XPextreme_prog",
+      "path": "CMSC_128/week_iv/Week_IV_XPextreme_prog.md"
+    },
+    {
+      "basename": "Sun@2022-11-27",
+      "path": "Daily Log/Sun@2022-11-27.md"
+    },
+    {
+      "basename": "Mon@2022-11-28",
+      "path": "Daily Log/Mon@2022-11-28.md"
+    },
+    {
+      "basename": "week_iv",
+      "path": "CMSC_128/week_iv/week_iv.md"
+    },
+    {
+      "basename": "ReqsEng",
+      "path": "CMSC_128/week_v/ReqsEng.md"
+    },
+    {
+      "basename": "week_II",
+      "path": "CMSC_128/week_II.md"
+    },
+    {
+      "basename": "CMSC_128",
+      "path": "CMSC_128/CMSC_128.md"
+    },
+    {
+      "basename": "CMSC_124",
+      "path": "CMSC_124/CMSC_124.md"
+    },
+    {
+      "basename": "stackoverflow",
+      "path": "stack/stackoverflow.md"
+    },
+    {
+      "basename": "python_stuff",
+      "path": "stack/python_stuff.md"
+    },
+    {
+      "basename": "precision",
+      "path": "stack/precision.md"
+    },
+    {
+      "basename": "DatabaseInterfaceRoot",
+      "path": "Database/DatabaseInterfaceRoot.md"
     },
     {
       "basename": "Sat@2022-11-26",
@@ -33,172 +189,12 @@
       "path": "CMSC 192 D/Week 2/IntroToComEth.md"
     },
     {
-      "basename": "Week 6",
-      "path": "CMSC 192 D/week6/Week 6.md"
-    },
-    {
       "basename": "week6lec",
       "path": "CMSC 192 D/week6/week6lec.md"
     },
     {
       "basename": "week6act",
       "path": "CMSC 192 D/week6/week6act.md"
-    },
-    {
-      "basename": "Class Project - Scenario 1",
-      "path": "CMSC 192 D/week7/Class Project - Scenario 1.md"
-    },
-    {
-      "basename": "Week 7",
-      "path": "CMSC 192 D/week7/Week 7.md"
-    },
-    {
-      "basename": "Week7Lec",
-      "path": "CMSC 192 D/week7/Week7Lec.md"
-    },
-    {
-      "basename": "latex_snips",
-      "path": "latex_snips.md"
-    },
-    {
-      "basename": "DataSources",
-      "path": "IBMDataEng/CourseOne/DataSources.md"
-    },
-    {
-      "basename": "WhatisDE",
-      "path": "IBMDataEng/CourseOne/WhatisDE.md"
-    },
-    {
-      "basename": "introDataEng",
-      "path": "IBMDataEng/CourseOne/introDataEng.md"
-    },
-    {
-      "basename": "FileFormats",
-      "path": "IBMDataEng/CourseOne/FileFormats.md"
-    },
-    {
-      "basename": "cmsc_192_d",
-      "path": "CMSC 192 D/cmsc_192_d.md"
-    },
-    {
-      "basename": "Group Project",
-      "path": "CMSC 192 D/Group Project.md"
-    },
-    {
-      "basename": "week5lecture",
-      "path": "CMSC 192 D/Week5/week5lecture.md"
-    },
-    {
-      "basename": "Week 5",
-      "path": "CMSC 192 D/Week5/Week 5.md"
-    },
-    {
-      "basename": "Week_4-ComputingEthics",
-      "path": "CMSC 192 D/Week_4-ComputingEthics.md"
-    },
-    {
-      "basename": "Kantian Ethics",
-      "path": "CMSC 192 D/Week1/Kantian Ethics.md"
-    },
-    {
-      "basename": "Utilitarianism",
-      "path": "CMSC 192 D/Week1/Utilitarianism.md"
-    },
-    {
-      "basename": "Week 1",
-      "path": "CMSC 192 D/Week1/Week 1.md"
-    },
-    {
-      "basename": "Week 3 - Ethical Theories",
-      "path": "CMSC 192 D/Week 3 - Ethical Theories.md"
-    },
-    {
-      "basename": "IntroToComEthSoc",
-      "path": "CMSC 192 D/Week 2/IntroToComEthSoc.md"
-    },
-    {
-      "basename": "MLCollated",
-      "path": "CMSC 194.1/ML/MLCollated.md"
-    },
-    {
-      "basename": "MLRoot",
-      "path": "CMSC 194.1/ML/MLRoot.md"
-    },
-    {
-      "basename": "MarineLitterDetection",
-      "path": "CMSC 194.1/ML/MarineLitterDetection.md"
-    },
-    {
-      "basename": "DALL-E",
-      "path": "CMSC 194.1/ML/DALL-E.md"
-    },
-    {
-      "basename": "ConsumerBuyingDEMATEL",
-      "path": "CMSC 194.1/ML/ConsumerBuyingDEMATEL.md"
-    },
-    {
-      "basename": "AbellanaLecture",
-      "path": "CMSC 194.1/ML/AbellanaLecture.md"
-    },
-    {
-      "basename": "OrgCollated",
-      "path": "CMSC 194.1/ORG/OrgCollated.md"
-    },
-    {
-      "basename": "Wineff Gulane",
-      "path": "Database/Persons/Wineff Gulane.md"
-    },
-    {
-      "basename": "CourseOneRoot",
-      "path": "IBMDataEng/CourseOne/CourseOneRoot.md"
-    },
-    {
-      "basename": "DataTypes",
-      "path": "IBMDataEng/CourseOne/DataTypes.md"
-    },
-    {
-      "basename": "ibmdataengroot",
-      "path": "IBMDataEng/ibmdataengroot.md"
-    },
-    {
-      "basename": "Ecosystem",
-      "path": "IBMDataEng/CourseOne/Ecosystem.md"
-    },
-    {
-      "basename": "Responsibilities",
-      "path": "IBMDataEng/CourseOne/Responsibilities.md"
-    },
-    {
-      "basename": "DataPros",
-      "path": "IBMDataEng/CourseOne/DataPros.md"
-    },
-    {
-      "basename": "Love's Bad Dream - Daman sa Gugma",
-      "path": "lit4/Sugilanon/Love's Bad Dream - Daman sa Gugma.md"
-    },
-    {
-      "basename": "Wed@2022-11-23",
-      "path": "Daily Log/Wed@2022-11-23.md"
-    },
-    {
-      "basename": "7-0 Reqs Modeling",
-      "path": "CMSC_128/week7/7-0 Reqs Modeling.md"
-    },
-    {
-      "basename": "RootDailyLogs",
-      "path": "Daily Log/RootDailyLogs.md"
-    },
-    {
-      "basename": "Tue@2022-11-22",
-      "path": "Daily Log/Tue@2022-11-22.md"
-    },
-    {
-      "basename": "Person",
-      "path": "Database/Person.md"
-    },
-    {
-      "basename": "Miss Flo (Temp)",
-      "path": "Database/Persons/Miss Flo (Temp).md"
     }
   ],
   "omittedPaths": [],

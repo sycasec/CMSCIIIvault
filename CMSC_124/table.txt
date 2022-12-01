@@ -1,0 +1,12 @@
+A+B*C+D ++A*BCD ABC*+D+
+(A+B)*(C+D) *+AB+CD AB+CD+*
+A*B+C*D +*AB*CD AB*CD*+
+A+B+C+D +++ABCD AB+C+D+
+(A+B)*C *+ABC AB+C*
+A*B+C/D +*AB/CD AB*CD/+
+A*(B+C)/D /*A+BCD ABC+*D/
+a*(b+c/d) *a+b/cd abcd/+*
+a*(b+c) *a+bc abc+*
+a/b+c/d +/ab/cd ab/cd/+
+((a+b)*c)-d -*+abcd ab+c*d-
+(a+(((b*c)-((d/(e^f))*g))*h)) +a*-*bc*/d^efgh abc*def^/g*-h*+

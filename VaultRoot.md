@@ -10,6 +10,7 @@
 # [[ibmdataengroot|└── IBM Data Engineering]]
 
 [[ActuallyUsefulStuff|Quick Access]]
+[[stackoverflow]]
 f919a603f7cc
 
 `GaryWilliamHunter : -- $$$$$ --`

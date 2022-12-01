@@ -1,4 +1,4 @@
-[[root]]
+[[VaultRoot]]
 [[Template Daily Log]]
 
 
