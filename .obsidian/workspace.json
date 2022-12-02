@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d8b452f785451b26",
+        "id": "c25996c4c826188e",
         "type": "tabs",
         "children": [
           {
-            "id": "6b2591987a716139",
+            "id": "63e63c1aa2d9d505",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Log/Thu@2022-12-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ac1fd1fc0af6cf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMSC 110/What is Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88d152b3b29ed926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMSC_124/Week 13.md",
+                "file": "CMSC_128/CMSC_128.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +31,7 @@
       {
         "id": "f5e6a0eb4b8ee90a",
         "type": "tabs",
-        "dimension": 70.2991452991453,
+        "dimension": 67.62820512820512,
         "children": [
           {
             "id": "2d3bd9e09c882955",
@@ -102,12 +77,12 @@
         ]
       },
       {
-        "id": "3d7c7bccbc7233e9",
+        "id": "738daea7a9099534",
         "type": "tabs",
-        "dimension": 29.700854700854702,
+        "dimension": 32.371794871794876,
         "children": [
           {
-            "id": "71e3328df39ba7b4",
+            "id": "d72e298b788b2cca",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -134,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC_124/Week 13.md",
+                "file": "CMSC_128/CMSC_128.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC_124/Week 13.md",
+                "file": "CMSC_128/CMSC_128.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC_124/Week 13.md"
+                "file": "CMSC_128/CMSC_128.md"
               }
             }
           },
@@ -210,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88d152b3b29ed926",
+  "active": "63e63c1aa2d9d505",
   "lastOpenFiles": [
+    "CMSC 192 D/week6/Week 6.md",
+    "CMSC_128/CMSC_128.md",
+    "Daily Log/Sat@2022-12-3.md",
+    "CMSC 142/Probset_1.md",
+    "STS/ScienceTech.md",
+    "HTB/ScriptKiddie.md",
+    "HTB/HTBroot.md",
+    "CMSC 110/CMSC 110.md",
     "CMSC 194.1/NLP/NLPRoot.md",
-    "P.md",
-    "DeepLearningAI/CourseOne/NeuralNetwork.md",
-    "CMSC 110/What is Research.md",
-    "DeepLearningAI/DeepLearningRoot.md",
-    "CMSC_128/week_iv/Week_IV_scrum.md",
-    "Daily Log/Thu@2022-12-1.md",
-    "IBMDataEng/CourseOne/BigData.md",
-    "IBMDataEng/CourseOne/CourseOneRoot.md",
-    "IBMDataEng/CourseOne/DataTypes.md"
+    "CMSC 110/LongExam.md"
   ]
 }

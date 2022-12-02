@@ -1,20 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Week 13",
-      "path": "CMSC_124/Week 13.md"
+      "basename": "CMSC_128",
+      "path": "CMSC_128/CMSC_128.md"
+    },
+    {
+      "basename": "Week 6",
+      "path": "CMSC 192 D/week6/Week 6.md"
+    },
+    {
+      "basename": "Sat@2022-12-3",
+      "path": "Daily Log/Sat@2022-12-3.md"
+    },
+    {
+      "basename": "Probset_1",
+      "path": "CMSC 142/Probset_1.md"
+    },
+    {
+      "basename": "ScienceTech",
+      "path": "STS/ScienceTech.md"
+    },
+    {
+      "basename": "ScriptKiddie",
+      "path": "HTB/ScriptKiddie.md"
+    },
+    {
+      "basename": "HTBroot",
+      "path": "HTB/HTBroot.md"
+    },
+    {
+      "basename": "LongExam",
+      "path": "CMSC 110/LongExam.md"
+    },
+    {
+      "basename": "CMSC 110",
+      "path": "CMSC 110/CMSC 110.md"
     },
     {
       "basename": "NLPRoot",
       "path": "CMSC 194.1/NLP/NLPRoot.md"
     },
     {
-      "basename": "NeuralNetwork",
-      "path": "DeepLearningAI/CourseOne/NeuralNetwork.md"
+      "basename": "NLPcollated",
+      "path": "CMSC 194.1/NLP/NLPcollated.md"
+    },
+    {
+      "basename": "TransPic",
+      "path": "CMSC 194.1/NLP/TransPic.md"
+    },
+    {
+      "basename": "VaccineHesitancy",
+      "path": "CMSC 194.1/NLP/VaccineHesitancy.md"
+    },
+    {
+      "basename": "LiteratureMining",
+      "path": "CMSC 194.1/NLP/LiteratureMining.md"
+    },
+    {
+      "basename": "MLCollated",
+      "path": "CMSC 194.1/ML/MLCollated.md"
+    },
+    {
+      "basename": "Collated",
+      "path": "CMSC 194.1/BRIG/Collated.md"
+    },
+    {
+      "basename": "BioMedMining",
+      "path": "CMSC 194.1/BRIG/BioMedMining.md"
+    },
+    {
+      "basename": "LearningLogWeek13",
+      "path": "CMSC_124/LearningLogWeek13.md"
+    },
+    {
+      "basename": "Learning Log Week 10",
+      "path": "CMSC_124/Learning Log Week 10.md"
+    },
+    {
+      "basename": "Week 13",
+      "path": "CMSC_124/Week 13.md"
+    },
+    {
+      "basename": "Fri@2022-12-2",
+      "path": "Daily Log/Fri@2022-12-2.md"
+    },
+    {
+      "basename": "MLRoot",
+      "path": "CMSC 194.1/ML/MLRoot.md"
+    },
+    {
+      "basename": "MarineLitterDetection",
+      "path": "CMSC 194.1/ML/MarineLitterDetection.md"
+    },
+    {
+      "basename": "Wed@2022-11-30",
+      "path": "Daily Log/November/Wed@2022-11-30.md"
     },
     {
       "basename": "What is Research",
       "path": "CMSC 110/What is Research.md"
+    },
+    {
+      "basename": "Thu@2022-12-1",
+      "path": "Daily Log/Thu@2022-12-1.md"
+    },
+    {
+      "basename": "NeuralNetwork",
+      "path": "DeepLearningAI/CourseOne/NeuralNetwork.md"
     },
     {
       "basename": "DeepLearningRoot",
@@ -23,10 +115,6 @@
     {
       "basename": "Week_IV_scrum",
       "path": "CMSC_128/week_iv/Week_IV_scrum.md"
-    },
-    {
-      "basename": "Thu@2022-12-1",
-      "path": "Daily Log/Thu@2022-12-1.md"
     },
     {
       "basename": "BigData",
@@ -45,10 +133,6 @@
       "path": "IBMDataEng/ibmdataengroot.md"
     },
     {
-      "basename": "CebuanoLanguage",
-      "path": "CMSC 194.1/NLP/CebuanoLanguage.md"
-    },
-    {
       "basename": "RDBMS",
       "path": "IBMDataEng/CourseOne/RDBMS.md"
     },
@@ -58,11 +142,7 @@
     },
     {
       "basename": "Tue@2022-11-29",
-      "path": "Daily Log/Tue@2022-11-29.md"
-    },
-    {
-      "basename": "Wed@2022-11-30",
-      "path": "Daily Log/Wed@2022-11-30.md"
+      "path": "Daily Log/November/Tue@2022-11-29.md"
     },
     {
       "basename": "DataLanguages",
@@ -117,84 +197,8 @@
       "path": "lit4/Sugilanon/Love's Bad Dream - Daman sa Gugma.md"
     },
     {
-      "basename": "Week 6",
-      "path": "CMSC 192 D/week6/Week 6.md"
-    },
-    {
       "basename": "Week_IV_XPextreme_prog",
       "path": "CMSC_128/week_iv/Week_IV_XPextreme_prog.md"
-    },
-    {
-      "basename": "Sun@2022-11-27",
-      "path": "Daily Log/Sun@2022-11-27.md"
-    },
-    {
-      "basename": "Mon@2022-11-28",
-      "path": "Daily Log/Mon@2022-11-28.md"
-    },
-    {
-      "basename": "week_iv",
-      "path": "CMSC_128/week_iv/week_iv.md"
-    },
-    {
-      "basename": "ReqsEng",
-      "path": "CMSC_128/week_v/ReqsEng.md"
-    },
-    {
-      "basename": "week_II",
-      "path": "CMSC_128/week_II.md"
-    },
-    {
-      "basename": "CMSC_128",
-      "path": "CMSC_128/CMSC_128.md"
-    },
-    {
-      "basename": "CMSC_124",
-      "path": "CMSC_124/CMSC_124.md"
-    },
-    {
-      "basename": "stackoverflow",
-      "path": "stack/stackoverflow.md"
-    },
-    {
-      "basename": "python_stuff",
-      "path": "stack/python_stuff.md"
-    },
-    {
-      "basename": "precision",
-      "path": "stack/precision.md"
-    },
-    {
-      "basename": "DatabaseInterfaceRoot",
-      "path": "Database/DatabaseInterfaceRoot.md"
-    },
-    {
-      "basename": "Sat@2022-11-26",
-      "path": "Daily Log/Sat@2022-11-26.md"
-    },
-    {
-      "basename": "Wk_IV_discussion",
-      "path": "CMSC 192 D/Wk_IV_discussion.md"
-    },
-    {
-      "basename": "IntroToComEthButEthics",
-      "path": "CMSC 192 D/Week 2/IntroToComEthButEthics.md"
-    },
-    {
-      "basename": "Week2",
-      "path": "CMSC 192 D/Week 2/Week2.md"
-    },
-    {
-      "basename": "IntroToComEth",
-      "path": "CMSC 192 D/Week 2/IntroToComEth.md"
-    },
-    {
-      "basename": "week6lec",
-      "path": "CMSC 192 D/week6/week6lec.md"
-    },
-    {
-      "basename": "week6act",
-      "path": "CMSC 192 D/week6/week6act.md"
     }
   ],
   "omittedPaths": [],

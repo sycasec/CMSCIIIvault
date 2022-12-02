@@ -4,7 +4,7 @@
 # [[CMSC_124|├── CMSC 124]]
 # [[CMSC_128|├── CMSC 128]]
 # [[CMSC 110|├── CMSC 110]]
-# [[STS|├── STS]]
+# [[ScienceTech|├── STS]]
 # [[RootDailyLogs|├── Daily Logs]]
 # [[lit4|├── LIT ]]
 # [[ibmdataengroot|└── IBM Data Engineering]]

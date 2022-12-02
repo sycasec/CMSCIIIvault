@@ -1,3 +1,5 @@
+[[CMSC 142]]
+
 ### 1. `int reverse(int n)` - returns the reverse of n, e.g. `n = 103, return 301; n = 1496, return 6941`
 
 ``` C

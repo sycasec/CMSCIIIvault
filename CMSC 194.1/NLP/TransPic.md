@@ -1,0 +1,9 @@
+[[NLPRoot]]
+
+Melgo, M. V. B., & Roxas, R. R. (2018). TransPic: Using Images as Interlingua for Machine Translations Systems. _Journal of Industrial Information Technology and Application_, _2_(3), 100–109. https://doi.org/ISSN(Online) :2586-0852
+
+In this article, Melgo and Roxas create a simplistic text-to-image generator with a pre-configured mapping of texts to images. The authors developed a simplistic Web Application with a corpus database that stores words from a website and their corresponding translations into several other languages. corresponding images are downloaded or manually made.  The WebApp allows users to log in and add, update, or delete categories and words. The authors then tested the clarity and accuracy of images by making users link images to corresponding words. The authors conclude that 82% of the images were correctly linked to corresponding pronouns, and 85% of pronouns were correctly linked to 
+
+However, there are many limitations in this study. While included in the NLP research group, this article makes no use of artificial intelligence and relies solely on pre-mapped translations created by the authors. There is no depiction nor any in-depth description of the WebApp design and testing for image aptness was conducted without the use of the WebApp. Users are given free reign over the database, which may introduce security concerns. Finally, testing on the aptness of images only uses pronouns while the authors give baseless justification on why only pronouns are used, other than claiming that they are "*harder to understand*" and "*harder to depict into images*", both of which hinging on the credibility of the authors' words, with no proof to demonstrate.
+
+This article is unrelated to my research interest, and will not be the basis of my research.

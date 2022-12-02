@@ -10,5 +10,6 @@
   "showLineNumber": true,
   "spellcheck": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false
 }

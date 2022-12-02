@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "VaultRoot",
@@ -43,10 +43,10 @@
       }
     },
     {
-      "query": "STS",
+      "query": "ScienceTech",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 166400
       }
     },
     {
@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 13722880
       }
+    },
+    {
+      "query": "DeepLearning",
+      "color": {
+        "a": 1,
+        "rgb": 16737894
+      }
     }
   ],
   "collapse-display": true,
@@ -98,10 +105,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.887840748718711,
-  "repelStrength": 13.0030453836441,
-  "linkStrength": 1,
-  "linkDistance": 56,
-  "scale": 0.1945002269061597,
-  "close": true
+  "centerStrength": 0.759488969768997,
+  "repelStrength": 13.3848325038996,
+  "linkStrength": 0.792839634553963,
+  "linkDistance": 88,
+  "scale": 0.22920135941749348,
+  "close": false
 }

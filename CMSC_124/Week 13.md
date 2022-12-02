@@ -33,7 +33,8 @@
 
 
 ## assignment as an expression
-
+- `if (x=y) instead of if (x==y)`
+- performs an assignment and evaluates to true
 ## multiple assignments
 
 ## mixed mode assignment

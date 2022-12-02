@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 12,
+  "baseFontSize": 13,
   "translucency": true,
   "interfaceFontFamily": "Inter,Hack NF",
   "textFontFamily": "",
@@ -9,5 +9,6 @@
   ],
   "accentColor": "#31f291",
   "baseFontSizeAction": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "Hack NF"
 }
