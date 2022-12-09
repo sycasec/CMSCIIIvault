@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "DataPlatArchitecture",
+      "path": "IBMDataEng/CourseOne/DataPlatArchitecture.md"
+    },
+    {
+      "basename": "RDBMS",
+      "path": "IBMDataEng/CourseOne/RDBMS.md"
+    },
+    {
+      "basename": "BigData",
+      "path": "IBMDataEng/CourseOne/BigData.md"
+    },
+    {
+      "basename": "DataWarehousing",
+      "path": "IBMDataEng/CourseOne/DataWarehousing.md"
+    },
+    {
+      "basename": "Wed@2022-12-7",
+      "path": "Daily Log/Wed@2022-12-7.md"
+    },
+    {
+      "basename": "Ecosystem",
+      "path": "IBMDataEng/CourseOne/Ecosystem.md"
+    },
+    {
+      "basename": "CourseOneRoot",
+      "path": "IBMDataEng/CourseOne/CourseOneRoot.md"
+    },
+    {
+      "basename": "DataSources",
+      "path": "IBMDataEng/CourseOne/DataSources.md"
+    },
+    {
+      "basename": "FileFormats",
+      "path": "IBMDataEng/CourseOne/FileFormats.md"
+    },
+    {
+      "basename": "DataTypes",
+      "path": "IBMDataEng/CourseOne/DataTypes.md"
+    },
+    {
+      "basename": "introDataEng",
+      "path": "IBMDataEng/CourseOne/introDataEng.md"
+    },
+    {
+      "basename": "Responsibilities",
+      "path": "IBMDataEng/CourseOne/Responsibilities.md"
+    },
+    {
+      "basename": "DataOps",
+      "path": "IBMDataEng/CourseOne/DataOps.md"
+    },
+    {
+      "basename": "Metadata",
+      "path": "IBMDataEng/CourseOne/Metadata.md"
+    },
+    {
+      "basename": "DataPros",
+      "path": "IBMDataEng/CourseOne/DataPros.md"
+    },
+    {
+      "basename": "WhatisDE",
+      "path": "IBMDataEng/CourseOne/WhatisDE.md"
+    },
+    {
+      "basename": "CareerOpportunities",
+      "path": "IBMDataEng/CourseOne/CareerOpportunities.md"
+    },
+    {
+      "basename": "Tue@2022-12-6",
+      "path": "Daily Log/Tue@2022-12-6.md"
+    },
+    {
       "basename": "CMSC_128",
       "path": "CMSC_128/CMSC_128.md"
     },
@@ -117,24 +189,8 @@
       "path": "CMSC_128/week_iv/Week_IV_scrum.md"
     },
     {
-      "basename": "BigData",
-      "path": "IBMDataEng/CourseOne/BigData.md"
-    },
-    {
-      "basename": "CourseOneRoot",
-      "path": "IBMDataEng/CourseOne/CourseOneRoot.md"
-    },
-    {
-      "basename": "DataTypes",
-      "path": "IBMDataEng/CourseOne/DataTypes.md"
-    },
-    {
       "basename": "ibmdataengroot",
       "path": "IBMDataEng/ibmdataengroot.md"
-    },
-    {
-      "basename": "RDBMS",
-      "path": "IBMDataEng/CourseOne/RDBMS.md"
     },
     {
       "basename": "ProjectManagement1",
@@ -143,62 +199,6 @@
     {
       "basename": "Tue@2022-11-29",
       "path": "Daily Log/November/Tue@2022-11-29.md"
-    },
-    {
-      "basename": "DataLanguages",
-      "path": "IBMDataEng/CourseOne/DataLanguages.md"
-    },
-    {
-      "basename": "Ecosystem",
-      "path": "IBMDataEng/CourseOne/Ecosystem.md"
-    },
-    {
-      "basename": "DataSources",
-      "path": "IBMDataEng/CourseOne/DataSources.md"
-    },
-    {
-      "basename": "Responsibilities",
-      "path": "IBMDataEng/CourseOne/Responsibilities.md"
-    },
-    {
-      "basename": "FileFormats",
-      "path": "IBMDataEng/CourseOne/FileFormats.md"
-    },
-    {
-      "basename": "Metadata",
-      "path": "IBMDataEng/CourseOne/Metadata.md"
-    },
-    {
-      "basename": "MachineLearningRoot",
-      "path": "IBMMachineLearning/MachineLearningRoot.md"
-    },
-    {
-      "basename": "VaultRoot",
-      "path": "VaultRoot.md"
-    },
-    {
-      "basename": "latex_snips",
-      "path": "latex_snips.md"
-    },
-    {
-      "basename": "ActuallyUsefulStuff",
-      "path": "ActuallyUsefulStuff.md"
-    },
-    {
-      "basename": "Ang Bisita",
-      "path": "lit4/Sugilanon/Ang Bisita.md"
-    },
-    {
-      "basename": "sugilanonroot",
-      "path": "lit4/Sugilanon/sugilanonroot.md"
-    },
-    {
-      "basename": "Love's Bad Dream - Daman sa Gugma",
-      "path": "lit4/Sugilanon/Love's Bad Dream - Daman sa Gugma.md"
-    },
-    {
-      "basename": "Week_IV_XPextreme_prog",
-      "path": "CMSC_128/week_iv/Week_IV_XPextreme_prog.md"
     }
   ],
   "omittedPaths": [],
