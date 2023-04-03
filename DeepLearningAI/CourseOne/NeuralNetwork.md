@@ -13,3 +13,5 @@
 - much harder for NN's to make sense of unstructured data such as:
 	- image, text, sound
 - compared to structured data like tables with rows and columns
+
+## Matrix  Multiplication (FAST)

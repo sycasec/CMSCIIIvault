@@ -1,0 +1,177 @@
+Directed by Butch Nolasco who later on worked on Lakas Sambayanan
+With Joonee Gamboa as main narrator
+
+## Notebook Memorias De un Estudiante de Manila
+- rizal @ 17 when he started diary
+- features his life story as told through his own writing.
+- wrote in the pen name y jacinto 
+- signs the document in his not so obvious signature that reads jose rizal 
+
+## Notebook Contents
+### A Star Was Born
+- Born in Calamba, June 19 1871 between 11pm - 12 am, wednesday
+- describes mother as literature enjoyer and is fluent in spanish
+- mother is "*mahusay sa matematika*"
+- grandad (momside) is first teacher of mom
+- defines mom to be first after god -- mommy issues (freudian slip showing)
+- provided education and 2 houses
+- moved to calamba, rented on land owned by dominican priests
+- called Moy 
+- they had 1000 books. (mf was rich.)
+- his brother pasiano (idk spelling) took mah boi to first *maestro*
+- started studying in binyag (??)
+- Justiniano Cruz
+- my boi JR get a throwdown with JCruz (kinda juicy and pedo ngl)
+	- even if he always comes out first in class
+- my boi Pasiano looking out for main homie
+	- sent JR to Ateneo Municipal in Intramuros, Manila
+- became a history buff because of skill issue
+- lied to dad to get him *historia universal*
+- after secondary education (highschool) teodora was sent out of big P
+- wins prizes in each semester
+- translated a foreign play which was presented in his college graduation
+- achieved bachelor of arts (in what?)
+	- bagged 5 medals (for what?)
+	- at age 15
+	- this made him sad
+- was supposedy just going to help paciano in the farm
+- he was made to study by his father in UST, and land surveying in ateneo
+- after a year, he studied medicine when his mother was going blind (cataracts)
+- fell in love with a dormie friend of his sister olympia
+	- Segunda Katigbak
+- segunda was made to go home to look after younger sibling
+- fell inlove with leonor rivera (his fucking cousin lmaooooooooo)
+- in his vacation to calamba, he forgot to salute to a lieutenant and was slapped hard (3 times)
+	- raised this to malacanang but was ignored (lmaoooooooooo)
+- won first prize with el consejo de los dioses (play)
+- after noting that an indio won first prizes, nobody clapped.
+- studied in spain
+### Studying in (S)pain Arc
+- pasiano planned the study of rizal in spain
+	- gave my boi 385 pesos (lmaoo) for his trip
+	- my boi
+	- asked letters of recommendations from jesuit priests and Pedro Paterno
+	- travelled to europe on may 2, at age 20
+	- travelled through the suez towards mareseille, france
+	- took train to barcelona, (s)pain
+	- visited the ugly(??) part of spain and was disilussioned
+	- wrote for diario tagalog
+		- owned by marcelo del pilar
+	- wrote for brother and parents
+		- parents were sad lmaooo
+- moved to madrid and entered college of medicine, philosophy, and *letras??*
+	- 1882, December 10 Madrid
+	- was with graciano lopez jaena
+		- former medicine, now got into writing and speeches
+	- gregorio sanciangco
+		- writer of el progresso del filipinas
+	- joined circulo espano filipino
+		- group of filipinos and spanish that talk about the on goings of ph and spain and publishes a newsletter 
+		- the circle died by loss of funds. 
+### Woke awakening arc
+-   PC Awakening was exemplified in the speech of rizal for juan luna and felix resurreccion hidalgo's award in painting 
+- mom gets sick because of a goddamn speech LMAOOOOOOOOOOOOOOOOO the drama 
+- gets a bad wrap in PH for this speech (altho the people in spain love it? lmao)
+- claimed medicine license
+- studied opthalmology in Paris
+- Juan Luna gives Rizal money because he gets a big blast of money sometimes
+- he became a model in juan lunas paintings (kinda fruity ngl)
+- moved to heidelberg germany to study in otto becker's clinic (opthal)
+- studied german
+- loved family tho, made artistic representations of the stories of hans christian anderson
+- became close friends with ferdinand bluemantritt, an austrian scholar that studied filipino
+	- sent a book written in filipino
+- became very close with rizal, introduced the guy to big names in science
+- by this time, noli me tangere is finished, but fundless for printing (the blocky printers where they manually press the letters)
+- Maximo Viola from Barcelona brought rizal to doctor because he got sick from saving up on food
+	- guy paid for the printing of noli 
+	- after printing, sent one to bluementritt
+- guy returned to PH
+### Home sweet home arc
+- it was still being read by friar research team
+- after 3 weeks of staying in PH, called by gov-gen because of friar complaints 
+- censor commission tailed rizal
+- the censor commission were intellectual enough to suggest the protection of rizal
+- friars communed to get the gov-gen to prison him tho
+### Away again arc
+- he left for hong kong, to macau, and to japan
+- banged a geisha and had the guts to write about her in the good way (lmao?)
+- left for USA to California and to Newyork
+- noted racism
+- traveled to london
+- befriended reinnhold ross
+	- helped to get british museum pass
+- found british museum
+- found book of PH history written by antonio morga, advisor of gov-gen
+- analyzed the text comparatively with other historical accounts of PH, and featured the contents into his own work
+- homie went to Paris for budget printing 
+- homie wrote a lot for La Solidaridad
+	- written in spain, edited by Graciano Lopez Jaena
+	- wrote about protection of culture and human rights of filipinos
+	- criticized europeans
+	- wrote about supposed basic rights that should be enjoyed by PH as official citizens of Spain 
+- homie wrote in appraisal of the women of malolos who fought for social justice
+- pasiano and rizal filed a lawsuit against the friars that owned the hacienda de calamba (which were friends of the mercado family)
+	- of course they lost the lawsuit, the farmers were kicked out along with the rizal family.
+- Rizal kind of fought with Marcelo del Pilar with the management of La Solidaridad
+- got depressed that his first *kind of* love interest in the PH got married to an englishman after **11 years**. lmao. like he didnt get any bitches sliding on his dick himself while he was away?
+### Printing El FIli Arc
+- moved to biaritz in france
+- moved to belgium but no more mani
+- got really frustrated that none of his PH *friends* lent him money to print stuff (Luna, Del Pilar,  Lopez Jaena), lmao they really didnt have that support in the revolution.
+- Valentin Ventura helped him tho
+- Jose Basa gave him money for a trip to hong kong
+- he finally printed in hongkong
+### Final Arc
+- spaniards moved pasiano to jolo, but they escaped to hongkong with francisco
+- with these mfs gone, they turned on teodora with a bullshit allegation of not using the right surname
+	- made to walk from manila to santa cruz laguna for 4 days
+	- the gobernadorcillo took pity and let the her go to hongkong
+	- celebrated new year tho
+- in hongkong
+	- opened clinic
+	- sent *liga filipina* to ph (idk what this is, thedocu does not explain, search later)
+- moved to borneo (now sabah)
+	- planned to create a new place for the filipinos kickde out from calamba
+	- sent this plan to the new gov-gen, asked permission to return to ph
+	- alloewd to go back but no guarantee on his freedom 
+- on his return, he was sent to dapitan
+	- lived with the commandant
+	- won lottery and bought land on the beach of talisay at 18 pesos.
+	- stayed in this place, and returned to the house of commandant
+	- opened a clinic and a small school
+		- european style, spanish + english and business techniques
+	- bluementritt stayed in touch
+	- josephine bracken lmaooooooooooo
+		- he brought his dad because blinding
+	- they fell in love lmaooooooooo???
+	- rizal's family didnt like this ???
+	- he volunteered to be a medic for cuba to foster friendliness with spain
+	- he was made to come back to PH under the allegations of rebellion and illegal forces
+	- he was kept in fort santiago, and later litigated on the 26th of Dec, after two days, he was sentenced execution
+		- mother visited
+		- sisters and cousin women visited
+		- he inserted his final poem in a lamp given to trining (sister?)
+		- shot dead on the 31st, happy new year!
+		- the body was not returned
+		- buried in paco cemetery without a grave and without a name.
+
+## Notable People
+- Teodora Alonzo - mother
+	- had a *tindahan* in the ground floor of house and other small businesess
+	- because of her strong personality, she nurtured her children (???)
+	- taught children to read and write
+- Francisco Mercado - father
+	- provided children with education and two houses (mfs were rich)
+	- moved to calamba
+- Pasiano (???) - eldest brother
+- Justiniano Cruz - first teacher
+- Jose Alberto - elder brother
+	- wife left children
+	- accused teodora of **poisoning** and sent to prison
+	- made my boi JR traumatized and sad
+- Padre Francisco de Paula Sanchez
+	- my boi's professor in tertiary educ
+- Olympia (sister)
+- Segunda Katigbak
+- 

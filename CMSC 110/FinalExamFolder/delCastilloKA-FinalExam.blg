@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: delCastilloKA-FinalExam.aux
+The style file: agsm.bst
+Database file #1: CMSC110exam.bib
+You've used 3 entries,
+            2896 wiz_defined-function locations,
+            658 strings with 5491 characters,
+and the built_in function-call counts, 15191 in all, are:
+= -- 2464
+> -- 225
+< -- 0
++ -- 1196
+- -- 70
+* -- 1350
+:= -- 3015
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 42
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 43
+empty$ -- 111
+format.name$ -- 81
+if$ -- 2721
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 14
+num.names$ -- 31
+pop$ -- 14
+preamble$ -- 1
+purify$ -- 45
+quote$ -- 0
+skip$ -- 37
+stack$ -- 0
+substring$ -- 3543
+swap$ -- 7
+text.length$ -- 42
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 0
+while$ -- 67
+width$ -- 0
+write$ -- 41

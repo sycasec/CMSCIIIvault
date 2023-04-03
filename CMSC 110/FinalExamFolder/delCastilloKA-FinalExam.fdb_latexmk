@@ -1,0 +1,38 @@
+# Fdb version 4
+["bibtex delCastilloKA-FinalExam"] 1673089303 "delCastilloKA-FinalExam.aux" "delCastilloKA-FinalExam.bbl" "delCastilloKA-FinalExam" 1673294728 0
+  "./CMSC110exam.bib" 1673089278 4309 da5d184fffdca5ea2826e1abea839d92 ""
+  "./agsm.bst" 1673088645 26749 e4c9b98f5e475430475d65b3efb359ba ""
+  "delCastilloKA-FinalExam.aux" 1673294728 445 359a7ab1799612478a8191575990bdba "pdflatex"
+  (generated)
+  "delCastilloKA-FinalExam.bbl"
+  "delCastilloKA-FinalExam.blg"
+  (rewritten before read)
+["pdflatex"] 1673294728 "delCastilloKA-FinalExam.tex" "delCastilloKA-FinalExam.pdf" "delCastilloKA-FinalExam" 1673294728 0
+  "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1671541133 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1671541133 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1671541133 1288 655e228510b4c2a1abe905c368440826 ""
+  "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1671541133 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1671541055 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1671541055 32080 340ef9bf63678554ee606688e7b5339d ""
+  "c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1671541055 35752 024fb6c41858982481f6968b5fc26508 ""
+  "c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1671541055 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty" 1671541277 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
+  "c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty" 1671541277 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "c:/texlive/2022/texmf-dist/tex/latex/base/article.cls" 1671541370 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
+  "c:/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1671541371 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
+  "c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1671541207 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty" 1671541218 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1671541309 30426 f2fb69fcda4dc35ed0b7dee211bce679 ""
+  "c:/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty" 1671541615 45456 1c8843383c0bd05870c45fa0ebea6cc2 ""
+  "c:/texlive/2022/texmf-dist/web2c/texmf.cnf" 1671540974 40171 cdab547de63d26590bebb3baff566530 ""
+  "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1673173921 77129 0047da64abfb718c5659478f6d47dc01 ""
+  "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1673173937 6472965 33a1f53cafcfb14bb3cf1ec9cabba6c0 ""
+  "c:/texlive/2022/texmf.cnf" 1671541829 801 147600c3cc1cfb63715a1a1d806b426b ""
+  "delCastilloKA-FinalExam.aux" 1673294728 445 359a7ab1799612478a8191575990bdba "pdflatex"
+  "delCastilloKA-FinalExam.bbl" 1673089303 1185 754d78b3ab6318fd16d3a8633daeef1a "bibtex delCastilloKA-FinalExam"
+  "delCastilloKA-FinalExam.tex" 1673089777 9140 b8761f1418e056d201ec0b0fe3f5fefd ""
+  (generated)
+  "delCastilloKA-FinalExam.aux"
+  "delCastilloKA-FinalExam.log"
+  "delCastilloKA-FinalExam.pdf"
+  (rewritten before read)

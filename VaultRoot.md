@@ -7,6 +7,9 @@
 # [[ScienceTech|├── STS]]
 # [[RootDailyLogs|├── Daily Logs]]
 # [[lit4|├── LIT ]]
+# [[PS  Root|├── Phil Stud Marcos]]
+# [[ImageProcessingRoot|├── Image Processing]]
+# [[CMSC_125_Root|├── Operating Systems (CMSC 125)]]
 # [[ibmdataengroot|└── IBM Data Engineering]]
 
 [[ActuallyUsefulStuff|Quick Access]]

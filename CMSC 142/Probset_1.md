@@ -16,17 +16,17 @@ int reverse(int n){
 
 outside of loop:
 
-`int rev = 0;` = 1, `return rev;` = 1  `n > 0` = 1; total = 3
+`int rev = 0;` = 1, `return rev;` = 1  total = 2
 
 inside loop:
 
 - `rev = rev * 10 + n % 10;` = 4
-- `n = n / 10;` = 2
+- `n /= 10;` = 1
 - `n > 0` = 1
-	- total: 7
+	- total: 5
 
 $$
-3 + \sum_{i=0}^{log_{10}(n)} 7 = 3 + 7 (log_{10}(n) - 0 + 1) = 7log_{10}(n) + 10
+3 + \sum_{i=0}^{log_{10}(n)} 5 = 3 + 5 (log_{10}(n) - 0 + 1) = 5log_{10}(n) + 8
 $$
 <br />
 
@@ -99,24 +99,24 @@ out of loop:
 
 inside loop:
 
-- `i < n-1; i++` = 3
-- `A[i] <= A[i+1]` = 2
-- `A[i] >= A[i+1]` = 2
+- `i < n-1; i++` = 2
+- `A[i] <= A[i+1]` = 1
+- `A[i] >= A[i+1]` = 1
 - `if i > 0 and p_state != state:` = 2
 - `p_state = state` = 1
-	- total 10, upper bound n-2, lower bound 0
+	- total 7, upper bound n-2, lower bound 0
 
 <br />
 
 $$
-9 + \sum_{i=0}^{n - 2} 10 = 9 + 10(n-2-0+1)
+9 + \sum_{i=0}^{n - 2} 7 = 9 + 7(n-2-0+1)
 $$
 
 <br />
 
 
 $$
-= 10n - 1
+= 7 n + 2
 $$
 
 <br />
@@ -132,7 +132,7 @@ int remainder(int a, int b){
 ```
 
 - `a < b` = 1
-- `return (remainder(a-b, b))` = 3
+- `return (remainder(a-b, b))` = 2
 
 base case:
 
@@ -140,9 +140,9 @@ base case:
 
 
 <br />
-$$T(n) = 4 + T(a-b)$$ <br />
-$$= 4 + 4 + T(a-2b)$$ <br />
-$$= 4 + 4 + 4 + T(a-3b)$$ <br />
-$$= 4 + 4 + ... + 4 + T(a < b)$$ <br />
-$$= 4(n-1) + 2$$ <br />
-$$= 4n - 2$$
+$$T(n) = 3 + T(a-b)$$ <br />
+$$= 3 + 3 + T(a-2b)$$ <br />
+$$= 3 + 3 + 3 + T(a-2b)$$ <br />
+$$= 3 + 3 + ... + 3 + T(a < b)$$ <br />
+$$= 3(n-1) + 1$$ <br />
+$$= 3n - 2$$

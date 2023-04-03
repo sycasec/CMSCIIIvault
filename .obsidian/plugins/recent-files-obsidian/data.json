@@ -1,182 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "DataPlatArchitecture",
-      "path": "IBMDataEng/CourseOne/DataPlatArchitecture.md"
-    },
-    {
-      "basename": "RDBMS",
-      "path": "IBMDataEng/CourseOne/RDBMS.md"
-    },
-    {
-      "basename": "BigData",
-      "path": "IBMDataEng/CourseOne/BigData.md"
-    },
-    {
-      "basename": "DataWarehousing",
-      "path": "IBMDataEng/CourseOne/DataWarehousing.md"
-    },
-    {
-      "basename": "Wed@2022-12-7",
-      "path": "Daily Log/Wed@2022-12-7.md"
-    },
-    {
-      "basename": "Ecosystem",
-      "path": "IBMDataEng/CourseOne/Ecosystem.md"
-    },
-    {
-      "basename": "CourseOneRoot",
-      "path": "IBMDataEng/CourseOne/CourseOneRoot.md"
-    },
-    {
-      "basename": "DataSources",
-      "path": "IBMDataEng/CourseOne/DataSources.md"
-    },
-    {
-      "basename": "FileFormats",
-      "path": "IBMDataEng/CourseOne/FileFormats.md"
-    },
-    {
-      "basename": "DataTypes",
-      "path": "IBMDataEng/CourseOne/DataTypes.md"
-    },
-    {
-      "basename": "introDataEng",
-      "path": "IBMDataEng/CourseOne/introDataEng.md"
-    },
-    {
-      "basename": "Responsibilities",
-      "path": "IBMDataEng/CourseOne/Responsibilities.md"
-    },
-    {
-      "basename": "DataOps",
-      "path": "IBMDataEng/CourseOne/DataOps.md"
-    },
-    {
-      "basename": "Metadata",
-      "path": "IBMDataEng/CourseOne/Metadata.md"
-    },
-    {
-      "basename": "DataPros",
-      "path": "IBMDataEng/CourseOne/DataPros.md"
-    },
-    {
-      "basename": "WhatisDE",
-      "path": "IBMDataEng/CourseOne/WhatisDE.md"
-    },
-    {
-      "basename": "CareerOpportunities",
-      "path": "IBMDataEng/CourseOne/CareerOpportunities.md"
-    },
-    {
-      "basename": "Tue@2022-12-6",
-      "path": "Daily Log/Tue@2022-12-6.md"
-    },
-    {
-      "basename": "CMSC_128",
-      "path": "CMSC_128/CMSC_128.md"
-    },
-    {
-      "basename": "Week 6",
-      "path": "CMSC 192 D/week6/Week 6.md"
-    },
-    {
-      "basename": "Sat@2022-12-3",
-      "path": "Daily Log/Sat@2022-12-3.md"
-    },
-    {
-      "basename": "Probset_1",
-      "path": "CMSC 142/Probset_1.md"
-    },
-    {
-      "basename": "ScienceTech",
-      "path": "STS/ScienceTech.md"
-    },
-    {
-      "basename": "ScriptKiddie",
-      "path": "HTB/ScriptKiddie.md"
-    },
-    {
-      "basename": "HTBroot",
-      "path": "HTB/HTBroot.md"
-    },
-    {
-      "basename": "LongExam",
-      "path": "CMSC 110/LongExam.md"
-    },
-    {
-      "basename": "CMSC 110",
-      "path": "CMSC 110/CMSC 110.md"
-    },
-    {
-      "basename": "NLPRoot",
-      "path": "CMSC 194.1/NLP/NLPRoot.md"
-    },
-    {
-      "basename": "NLPcollated",
-      "path": "CMSC 194.1/NLP/NLPcollated.md"
-    },
-    {
-      "basename": "TransPic",
-      "path": "CMSC 194.1/NLP/TransPic.md"
-    },
-    {
-      "basename": "VaccineHesitancy",
-      "path": "CMSC 194.1/NLP/VaccineHesitancy.md"
-    },
-    {
-      "basename": "LiteratureMining",
-      "path": "CMSC 194.1/NLP/LiteratureMining.md"
-    },
-    {
-      "basename": "MLCollated",
-      "path": "CMSC 194.1/ML/MLCollated.md"
-    },
-    {
-      "basename": "Collated",
-      "path": "CMSC 194.1/BRIG/Collated.md"
-    },
-    {
-      "basename": "BioMedMining",
-      "path": "CMSC 194.1/BRIG/BioMedMining.md"
-    },
-    {
-      "basename": "LearningLogWeek13",
-      "path": "CMSC_124/LearningLogWeek13.md"
-    },
-    {
-      "basename": "Learning Log Week 10",
-      "path": "CMSC_124/Learning Log Week 10.md"
-    },
-    {
-      "basename": "Week 13",
-      "path": "CMSC_124/Week 13.md"
-    },
-    {
-      "basename": "Fri@2022-12-2",
-      "path": "Daily Log/Fri@2022-12-2.md"
-    },
-    {
-      "basename": "MLRoot",
-      "path": "CMSC 194.1/ML/MLRoot.md"
-    },
-    {
-      "basename": "MarineLitterDetection",
-      "path": "CMSC 194.1/ML/MarineLitterDetection.md"
-    },
-    {
-      "basename": "Wed@2022-11-30",
-      "path": "Daily Log/November/Wed@2022-11-30.md"
-    },
-    {
-      "basename": "What is Research",
-      "path": "CMSC 110/What is Research.md"
-    },
-    {
-      "basename": "Thu@2022-12-1",
-      "path": "Daily Log/Thu@2022-12-1.md"
-    },
-    {
       "basename": "NeuralNetwork",
       "path": "DeepLearningAI/CourseOne/NeuralNetwork.md"
     },
@@ -185,22 +9,199 @@
       "path": "DeepLearningAI/DeepLearningRoot.md"
     },
     {
-      "basename": "Week_IV_scrum",
-      "path": "CMSC_128/week_iv/Week_IV_scrum.md"
+      "basename": "Mon@2023-04-3",
+      "path": "Daily Log/Mon@2023-04-3.md"
+    },
+    {
+      "basename": "Liway",
+      "path": "PhilStud/Liway.md"
+    },
+    {
+      "basename": "PS  Root",
+      "path": "PhilStud/PS  Root.md"
+    },
+    {
+      "basename": "Thu@2023-03-30",
+      "path": "Daily Log/Thu@2023-03-30.md"
+    },
+    {
+      "basename": "March20Bebut",
+      "path": "PI 100/March20Bebut.md"
+    },
+    {
+      "basename": "Mon@2023-03-20",
+      "path": "Daily Log/Mon@2023-03-20.md"
+    },
+    {
+      "basename": "Bebut_Lecture",
+      "path": "PI 100/Bebut_Lecture.md"
+    },
+    {
+      "basename": "Rizal_root",
+      "path": "PI 100/Rizal_root.md"
+    },
+    {
+      "basename": "Rizal Sa Dapitan",
+      "path": "PI 100/Rizal Sa Dapitan.md"
+    },
+    {
+      "basename": "Mon@2023-03-13",
+      "path": "Daily Log/Mon@2023-03-13.md"
+    },
+    {
+      "basename": "Pasted image 20230303095319",
+      "path": "pastes/Pasted image 20230303095319.png"
+    },
+    {
+      "basename": "DataStructRoot",
+      "path": "Data Structures/DataStructRoot.md"
+    },
+    {
+      "basename": "Thu@2023-03-9",
+      "path": "Daily Log/Thu@2023-03-9.md"
+    },
+    {
+      "basename": "SearchAlgs",
+      "path": "Data Structures/SearchAlgs.md"
+    },
+    {
+      "basename": "GraphAlgs",
+      "path": "Data Structures/GraphAlgs.md"
+    },
+    {
+      "basename": "Fri@2023-03-3",
+      "path": "Daily Log/Fri@2023-03-3.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "CMSC_125/Introduction.md"
+    },
+    {
+      "basename": "CMSC_125_Root",
+      "path": "CMSC_125/CMSC_125_Root.md"
+    },
+    {
+      "basename": "VaultRoot",
+      "path": "VaultRoot.md"
+    },
+    {
+      "basename": "AuthoritarianPersonality",
+      "path": "PhilStud/AuthoritarianPersonality.md"
+    },
+    {
+      "basename": "Historical and Dialectical Materialism",
+      "path": "PhilStud/Historical and Dialectical Materialism.md"
+    },
+    {
+      "basename": "Neoliberalism",
+      "path": "PhilStud/Neoliberalism.md"
+    },
+    {
+      "basename": "Thu@2023-03-2",
+      "path": "Daily Log/Thu@2023-03-2.md"
+    },
+    {
+      "basename": "Video Conference Day 1",
+      "path": "PI 100/Video Conference Day 1.md"
+    },
+    {
+      "basename": "Buhay ng Isang Bayani Docu",
+      "path": "PI 100/Buhay ng Isang Bayani Docu.md"
+    },
+    {
+      "basename": "Wed@2023-03-1",
+      "path": "Daily Log/Wed@2023-03-1.md"
+    },
+    {
+      "basename": "Tue@2023-02-28",
+      "path": "Daily Log/Tue@2023-02-28.md"
+    },
+    {
+      "basename": "Mon@2023-02-27",
+      "path": "Daily Log/Mon@2023-02-27.md"
+    },
+    {
+      "basename": "Machine Problem 1",
+      "path": "CMSC_125/Machine Problem 1.pdf"
+    },
+    {
+      "basename": "Sun@2023-02-26",
+      "path": "Daily Log/Sun@2023-02-26.md"
+    },
+    {
+      "basename": "Week1LecVid",
+      "path": "Image Processing/Week1LecVid.md"
+    },
+    {
+      "basename": "ImageProcessingRoot",
+      "path": "Image Processing/ImageProcessingRoot.md"
+    },
+    {
+      "basename": "MatlabCheatSheet",
+      "path": "Image Processing/MatlabCheatSheet.md"
+    },
+    {
+      "basename": "MatlabIPOnramp",
+      "path": "Image Processing/MatlabIPOnramp.md"
+    },
+    {
+      "basename": "Wed@2023-02-22",
+      "path": "Daily Log/Wed@2023-02-22.md"
+    },
+    {
+      "basename": "cmsc110test",
+      "path": "latexTest/cmsc110test.pdf"
+    },
+    {
+      "basename": "Tue@2023-02-21",
+      "path": "Daily Log/Tue@2023-02-21.md"
+    },
+    {
+      "basename": "Logistic Regression",
+      "path": "DeepLearningAI/CourseOne/Logistic Regression.md"
+    },
+    {
+      "basename": "Hacienda & Encomienda",
+      "path": "PhilStud/Hacienda & Encomienda.md"
     },
     {
       "basename": "ibmdataengroot",
-      "path": "IBMDataEng/ibmdataengroot.md"
+      "path": "IBM Stuff/IBMDataEng/ibmdataengroot.md"
     },
     {
-      "basename": "ProjectManagement1",
-      "path": "ProjectManagement/ProjectManagement1.md"
+      "basename": "Mon@2023-02-20",
+      "path": "Daily Log/Mon@2023-02-20.md"
     },
     {
-      "basename": "Tue@2022-11-29",
-      "path": "Daily Log/November/Tue@2022-11-29.md"
+      "basename": "Sun@2023-02-19",
+      "path": "Daily Log/Sun@2023-02-19.md"
+    },
+    {
+      "basename": "Fri@2023-02-17",
+      "path": "Daily Log/Fri@2023-02-17.md"
+    },
+    {
+      "basename": "CS Roles, Processes, OS sec",
+      "path": "IBM Stuff/IBM CyberSec/CS Roles, Processes, OS sec.md"
+    },
+    {
+      "basename": "Sun@2023-02-12",
+      "path": "Daily Log/Sun@2023-02-12.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Intro to Cloud Engineering",
+      "path": "Google Engineer/Cloud Engineer/Intro to Cloud Engineering.md"
+    },
+    {
+      "basename": "Fri@2023-02-10",
+      "path": "Daily Log/Fri@2023-02-10.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

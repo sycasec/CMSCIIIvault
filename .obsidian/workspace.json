@@ -4,71 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "c25996c4c826188e",
+        "id": "0c9493fbca4b8fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "63e63c1aa2d9d505",
+            "id": "b5c2abadaa07e665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Log/Tue@2022-12-6.md",
+                "file": "PI 100/Rizal Sa Dapitan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "301b9d9686f497ee",
+            "id": "9b593129dd4d968e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IBMDataEng/CourseOne/DataPlatArchitecture.md",
+                "file": "Daily Log/Mon@2023-03-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "25ae7fa7b45b8ae5",
+            "id": "debae393f446f358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Log/Tue@2022-12-6.md",
+                "file": "PhilStud/PS  Root.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac6f02dd1b2464dc",
+            "id": "2667ab2688275ec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IBMDataEng/CourseOne/CareerOpportunities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b8cbdabf8a2a452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IBMDataEng/CourseOne/DataPlatArchitecture.md",
+                "file": "DeepLearningAI/CourseOne/NeuralNetwork.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +68,6 @@
       {
         "id": "f5e6a0eb4b8ee90a",
         "type": "tabs",
-        "dimension": 67.62820512820512,
         "children": [
           {
             "id": "2d3bd9e09c882955",
@@ -124,21 +111,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "738daea7a9099534",
-        "type": "tabs",
-        "dimension": 32.371794871794876,
-        "children": [
-          {
-            "id": "d72e298b788b2cca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -153,35 +125,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c00347e1159ac09c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "IBMDataEng/CourseOne/DataPlatArchitecture.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "29090c75235906f6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "IBMDataEng/CourseOne/DataPlatArchitecture.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "84e0d1dac5956f5c",
             "type": "leaf",
             "state": {
@@ -193,25 +136,17 @@
             }
           },
           {
-            "id": "712b3c8c19a878e9",
+            "id": "0cb217fa366dd759",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "IBMDataEng/CourseOne/DataPlatArchitecture.md"
+                "file": "DeepLearningAI/CourseOne/NeuralNetwork.md"
               }
             }
           },
           {
-            "id": "357934abd3ffa586",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "79c3a57c1477da0c",
+            "id": "496c643a5efc4af7",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -219,32 +154,92 @@
             }
           },
           {
-            "id": "e5b3ffc8478f9b25",
+            "id": "1a24a7a8ff12877f",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6e254a85e76f0698",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DeepLearningAI/CourseOne/NeuralNetwork.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "559e609cdf1ce076",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DeepLearningAI/CourseOne/NeuralNetwork.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "7b8cbdabf8a2a452",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2667ab2688275ec1",
   "lastOpenFiles": [
-    "IBMDataEng/CourseOne/RDBMS.md",
-    "IBMDataEng/CourseOne/BigData.md",
-    "IBMDataEng/CourseOne/DataWarehousing.md",
-    "Daily Log/Wed@2022-12-7.md",
-    "IBMDataEng/CourseOne/DataPlatArchitecture.md",
-    "IBMDataEng/CourseOne/Ecosystem.md",
-    "IBMDataEng/CourseOne/CourseOneRoot.md",
-    "IBMDataEng/CourseOne/DataSources.md",
-    "IBMDataEng/CourseOne/FileFormats.md",
-    "IBMDataEng/CourseOne/DataTypes.md"
+    "DeepLearningAI/DeepLearningRoot.md",
+    "Daily Log/Mon@2023-04-3.md",
+    "PhilStud/Liway.md",
+    "PhilStud/PS  Root.md",
+    "Daily Log/Thu@2023-03-30.md",
+    "PI 100/March20Bebut.md",
+    "Daily Log/Mon@2023-03-20.md",
+    "PI 100/Bebut_Lecture.md",
+    "PI 100/Rizal_root.md",
+    "PI 100/Rizal Sa Dapitan.md",
+    "Daily Log/Mon@2023-03-13.md",
+    "pastes/Pasted image 20230303095319.png",
+    "Data Structures/DataStructRoot.md",
+    "Daily Log/Thu@2023-03-9.md",
+    "Data Structures/SearchAlgs.md",
+    "Data Structures/GraphAlgs.md",
+    "Daily Log/Fri@2023-03-3.md",
+    "Data Structures",
+    "CMSC_125/CMSC_125_Root.md",
+    "CMSC_125/Introduction.md",
+    "VaultRoot.md",
+    "PhilStud/AuthoritarianPersonality.md",
+    "PhilStud/Historical and Dialectical Materialism.md",
+    "PhilStud/Neoliberalism.md",
+    "Daily Log/Thu@2023-03-2.md",
+    "PI 100/Video Conference Day 1.md",
+    "PI 100/Buhay ng Isang Bayani Docu.md",
+    "Daily Log/Wed@2023-03-1.md",
+    "CMSC_125/Machine Problem 1.pdf"
   ]
 }

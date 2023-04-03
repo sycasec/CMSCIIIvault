@@ -85,7 +85,7 @@
       }
     },
     {
-      "query": "lit",
+      "query": "Literature",
       "color": {
         "a": 1,
         "rgb": 13722880
@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 16737894
       }
+    },
+    {
+      "query": "Data",
+      "color": {
+        "a": 1,
+        "rgb": 14372173
+      }
     }
   ],
   "collapse-display": true,
@@ -105,10 +112,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.759488969768997,
-  "repelStrength": 13.3848325038996,
-  "linkStrength": 0.792839634553963,
-  "linkDistance": 88,
-  "scale": 0.22920135941749348,
+  "centerStrength": 0.892668795959296,
+  "repelStrength": 13.6685731263463,
+  "linkStrength": 0.868899948005645,
+  "linkDistance": 103,
+  "scale": 0.16348370567220594,
   "close": true
 }

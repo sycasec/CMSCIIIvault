@@ -1,0 +1,56 @@
+## Encomienda
+- 1570
+- King Philip II, 1558
+	- distributed lands of Cebu to loyal Spanish subjects
+- lands were ruled/owned by encomenderos (lords)
+- encomenderos were required to do the ff:
+	- give protection to natives
+	- help missionaries convert natives to christianity
+	- promote educ
+- however abuse ensued
+	- brutal treatment of Filipinos
+	- collecting more tribute than authorized by law
+	- forcing people to work for them 
+	- seizure of people's animals and crops without just compensation 
+- [[Historical and Dialectical Materialism]] 
+	- class struggle between natives and encomenderos
+	- social order enforced by spanish army
+- the abuses turned the friars against encomenderos
+	- wanted their own share
+- friars tried to fight by
+	- preach from pulpits against encomendero abuse
+	- write letters and memorials (of abuses) to king of spain 
+	- refusing to absolve the encomenderos from their sins (Faith build)
+- the laborers' struggle and unfair social order resulted in production
+	- was suggested by friars, kinda stupid
+	- they didnt want to suggest a revolution
+- three kinds of encomiendas
+	- the royal encomienda (tax to the king)
+	- ecclesiastical encomienda (tax to the friars)
+	- private encomienda (tax to encomendero)
+- natives initally paid 8 (eight) reales as tribute,
+	- increased to 10 in 1589 by King Philip II
+	- king also received a separate tribute from encomendero (from the private encomienda)
+	- the king's tribute was supposedly for country's defense (situado)
+- size of encomienda determined by
+	- total population
+	- value of the land
+- law limited population controlled by each encomendero is n <= 300
+- value of land m <= 2000
+- lasted within a family for three generations (~90 years) reduced to two generations
+	- returned to three in 1635
+
+## Hacienda
+- estate in colonies of spanish empire
+- mines, factories, plantations (or all)
+- organized in a clear hierarchy inspired by paternalistic societies
+	- landlords were the ruling class
+	- laborers at the bottom
+- system based on exploitation
+	- designed to keep people in dept working on a piece of land
+	- laborers made to stay as long as possible using various means
+- owners called haciendados (lords)
+	- made huge \$\$\$ from exploit
+- eventually evolved into many different ways wherein lords could exploit laborers
+- lands for haciendas were primarily acquired by colombussing land
+- **mexican revoultion**

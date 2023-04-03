@@ -1,0 +1,21 @@
+PWD D:/CMSC III/CMSC 194.1/LitReview
+INPUT c:/texlive/2022/texmf.cnf
+INPUT c:/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2022/texmf-var/web2c/pdftex/latex.fmt
+INPUT bare_conf.tex
+OUTPUT bare_conf.log
+INPUT ./IEEEtran.cls
+INPUT ./IEEEtran.cls
+INPUT IEEEtran.cls
+INPUT ./IEEEtran.cls
+INPUT ./IEEEtran.cls
+INPUT ./IEEEtran.cls
+INPUT ./IEEEtran.cls
+INPUT ./IEEEtran.cls
+INPUT IEEEtran.cls
+INPUT ./IEEEtran.cls
+INPUT IEEEtran.cls
+INPUT c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
