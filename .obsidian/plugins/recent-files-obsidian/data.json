@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Machine Problem 1 Notes",
+      "path": "CMSC_125/Machine Problem 1 Notes.md"
+    },
+    {
       "basename": "NeuralNetwork",
       "path": "DeepLearningAI/CourseOne/NeuralNetwork.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Intro to Cloud Engineering",
       "path": "Google Engineer/Cloud Engineer/Intro to Cloud Engineering.md"
-    },
-    {
-      "basename": "Fri@2023-02-10",
-      "path": "Daily Log/Fri@2023-02-10.md"
     }
   ],
   "omittedPaths": [],
