@@ -36,12 +36,6 @@ function RGB_map = chart_correction(RGB_reference,RGB_measured)
     RGB_map(:,2) = polyval(green_poly, 0:255)';
     RGB_map(:,3) = polyval(blue_poly, 0:255)';
 
-% trying interpolation, not working lmao
-% RGB_reference_noisy = good_values + rand(size(good_values))*1e-6;
-% RGB_map(:,1) = interp1(RGB_reference_noisy(:,1), bad_values(:,1), 0:255, 'linear', 'extrap') - (0:255)';
-% RGB_map(:,2) = interp1(RGB_reference_noisy(:,2), bad_values(:,2), 0:255, 'linear', 'extrap') - (0:255)';
-% RGB_map(:,3) = interp1(RGB_reference_noisy(:,3), bad_values(:,3), 0:255, 'linear', 'extrap') - (0:255)';
-
 % HINT  - you can try and work these out from first principles or use interp1 or 
 % polyfit/polyval to estimate the corrections from the measured to reference
 % measurements for each of the values 0..255. Any fitted values outside 0..255 

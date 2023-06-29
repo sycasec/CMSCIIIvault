@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "ICDL_bigdata_env",
+      "path": "ICDL/ICDL_bigdata_env.md"
+    },
+    {
+      "basename": "ICDL_root",
+      "path": "ICDL/ICDL_root.md"
+    },
+    {
+      "basename": "ICDL_ee_bigdata",
+      "path": "ICDL/ICDL_ee_bigdata.md"
+    },
+    {
+      "basename": "DataTypes",
+      "path": "IBM Stuff/IBMDataEng/CourseOne/DataTypes.md"
+    },
+    {
+      "basename": "CourseOneRoot",
+      "path": "IBM Stuff/IBMDataEng/CourseOne/CourseOneRoot.md"
+    },
+    {
+      "basename": "BigData",
+      "path": "IBM Stuff/IBMDataEng/CourseOne/BigData.md"
+    },
+    {
+      "basename": "Thu@2023-06-29",
+      "path": "Daily Log/Thu@2023-06-29.md"
+    },
+    {
+      "basename": "Sat@2023-05-27",
+      "path": "Daily Log/Sat@2023-05-27.md"
+    },
+    {
+      "basename": "reading_the_image",
+      "path": "PhilStud/reading_the_image.md"
+    },
+    {
+      "basename": "Sun@2023-05-21",
+      "path": "Daily Log/Sun@2023-05-21.md"
+    },
+    {
+      "basename": "Memory Management",
+      "path": "CMSC_125/Memory Management.md"
+    },
+    {
+      "basename": "Processor Management",
+      "path": "CMSC_125/Processor Management.md"
+    },
+    {
       "basename": "Machine Problem 1 Notes",
       "path": "CMSC_125/Machine Problem 1 Notes.md"
+    },
+    {
+      "basename": "Wed@2023-05-17",
+      "path": "Daily Log/Wed@2023-05-17.md"
+    },
+    {
+      "basename": "AlbaceaNotes",
+      "path": "CMSC_125/AlbaceaNotes.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Tue@2023-05-16",
+      "path": "Daily Log/Tue@2023-05-16.md"
+    },
+    {
+      "basename": "Bayesian Stuff",
+      "path": "CMSC170/Bayesian Stuff.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "CMSC_125/Introduction.md"
+    },
+    {
+      "basename": "Mon@2023-05-15",
+      "path": "Daily Log/Mon@2023-05-15.md"
+    },
+    {
+      "basename": "CMSC_125_Root",
+      "path": "CMSC_125/CMSC_125_Root.md"
     },
     {
       "basename": "NeuralNetwork",
@@ -77,14 +157,6 @@
       "path": "Daily Log/Fri@2023-03-3.md"
     },
     {
-      "basename": "Introduction",
-      "path": "CMSC_125/Introduction.md"
-    },
-    {
-      "basename": "CMSC_125_Root",
-      "path": "CMSC_125/CMSC_125_Root.md"
-    },
-    {
       "basename": "VaultRoot",
       "path": "VaultRoot.md"
     },
@@ -127,78 +199,6 @@
     {
       "basename": "Machine Problem 1",
       "path": "CMSC_125/Machine Problem 1.pdf"
-    },
-    {
-      "basename": "Sun@2023-02-26",
-      "path": "Daily Log/Sun@2023-02-26.md"
-    },
-    {
-      "basename": "Week1LecVid",
-      "path": "Image Processing/Week1LecVid.md"
-    },
-    {
-      "basename": "ImageProcessingRoot",
-      "path": "Image Processing/ImageProcessingRoot.md"
-    },
-    {
-      "basename": "MatlabCheatSheet",
-      "path": "Image Processing/MatlabCheatSheet.md"
-    },
-    {
-      "basename": "MatlabIPOnramp",
-      "path": "Image Processing/MatlabIPOnramp.md"
-    },
-    {
-      "basename": "Wed@2023-02-22",
-      "path": "Daily Log/Wed@2023-02-22.md"
-    },
-    {
-      "basename": "cmsc110test",
-      "path": "latexTest/cmsc110test.pdf"
-    },
-    {
-      "basename": "Tue@2023-02-21",
-      "path": "Daily Log/Tue@2023-02-21.md"
-    },
-    {
-      "basename": "Logistic Regression",
-      "path": "DeepLearningAI/CourseOne/Logistic Regression.md"
-    },
-    {
-      "basename": "Hacienda & Encomienda",
-      "path": "PhilStud/Hacienda & Encomienda.md"
-    },
-    {
-      "basename": "ibmdataengroot",
-      "path": "IBM Stuff/IBMDataEng/ibmdataengroot.md"
-    },
-    {
-      "basename": "Mon@2023-02-20",
-      "path": "Daily Log/Mon@2023-02-20.md"
-    },
-    {
-      "basename": "Sun@2023-02-19",
-      "path": "Daily Log/Sun@2023-02-19.md"
-    },
-    {
-      "basename": "Fri@2023-02-17",
-      "path": "Daily Log/Fri@2023-02-17.md"
-    },
-    {
-      "basename": "CS Roles, Processes, OS sec",
-      "path": "IBM Stuff/IBM CyberSec/CS Roles, Processes, OS sec.md"
-    },
-    {
-      "basename": "Sun@2023-02-12",
-      "path": "Daily Log/Sun@2023-02-12.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Intro to Cloud Engineering",
-      "path": "Google Engineer/Cloud Engineer/Intro to Cloud Engineering.md"
     }
   ],
   "omittedPaths": [],

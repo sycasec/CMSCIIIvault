@@ -5,5 +5,9 @@
   "minimal-style@@h2-size": "2em",
   "minimal-style@@h2-weight": 700,
   "minimal-style@@h3-size": "1.5em",
-  "minimal-style@@h3-weight": 700
+  "minimal-style@@h3-weight": 700,
+  "minimal-style@@h4-size": "1.2em",
+  "minimal-style@@bold-color@@light": "#EB116B",
+  "minimal-style@@bold-color@@dark": "#FB007A",
+  "minimal-style@@italic-color@@dark": "#27FBFE"
 }

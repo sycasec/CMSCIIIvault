@@ -1,8 +1,9 @@
 
 % test image
-I = imread('gantrycrane.png');
+%I = imread('gantrycrane.png');
 %I =imread('pout.tif');
-%I = imread('peppers.png');
+I = imread('peppers.png');
+%I = imread('kookaburra_flat.tif');
 
 % force into single channel, greyscale 0..1
 if (size(I,3)==3)
@@ -11,7 +12,7 @@ end
 I = im2double(I);
 
 % add noise
-Inoisy = imnoise(I,'gaussian',0,0.002);
+Inoisy = imnoise(I,'gaussian',0,0.020);
 
 N=5;
 
@@ -27,16 +28,16 @@ B = conv2(I,ones(N,N)/(N*N),'same');
 subplot(2,2,3);
 imagesc(B); caxis(cax);
 title('Blurred Image');
-
-% run smart blur
-Ismart = smart_blur(Inoisy,N,0.02);
-
 % finish plotting
 figure(99);
 subplot(2,2,4);
 imagesc(Ismart); caxis(cax);
 
-title('Smart Blur (N=5,t=0.02)');
+% run smart blur
+Ismart = smart_blur(Inoisy,N,0.10);
+
+
+title('Smart Blur (N=5,t=0.10)');
 
 colormap(gray(256));
 drawnow

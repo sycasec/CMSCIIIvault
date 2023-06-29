@@ -32,5 +32,6 @@ eq_img = double(temp) / 255;
 
 % ----- INSERT YOUR CODE ABOVE -----
 
+
 return
 end

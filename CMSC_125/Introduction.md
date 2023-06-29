@@ -108,4 +108,4 @@
 - overlaps I/O of one job with the computation of other jobs
 - computation of one job can overlap with the I/O of other jobs
 - can keep both CPU and I/O devices working at a much higher rate
-- 
+- ****

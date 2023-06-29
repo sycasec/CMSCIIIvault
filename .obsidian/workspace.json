@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41b37515195b8c77",
+        "id": "5017693bc62a91e9",
         "type": "tabs",
         "children": [
           {
-            "id": "2bbde0bc42c2e300",
+            "id": "8fddd73e1b700a3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC_125/Machine Problem 1 Notes.md",
+                "file": "ICDL/ICDL_bigdata_env.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,13 +72,20 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "104515407a8d345f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "362628d18b5136e4",
@@ -105,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC_125/Machine Problem 1 Notes.md"
+                "file": "ICDL/ICDL_bigdata_env.md"
               }
             }
           },
@@ -131,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC_125/Machine Problem 1 Notes.md",
+                "file": "ICDL/ICDL_bigdata_env.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC_125/Machine Problem 1 Notes.md",
+                "file": "ICDL/ICDL_bigdata_env.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,40 +178,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "2bbde0bc42c2e300",
+  "active": "8fddd73e1b700a3c",
   "lastOpenFiles": [
+    "ICDL/ICDL_bigdata_env.md",
+    "ICDL/ICDL_root.md",
+    "ICDL/ICDL_ee_bigdata.md",
+    "IBM Stuff/IBMDataEng/CourseOne/DataTypes.md",
+    "IBM Stuff/IBMDataEng/CourseOne/CourseOneRoot.md",
+    "IBM Stuff/IBMDataEng/CourseOne/BigData.md",
+    "Daily Log/Thu@2023-06-29.md",
+    "ICDL",
+    "Daily Log/Sat@2023-05-27.md",
+    "PhilStud/reading_the_image.md",
+    "Daily Log/Sun@2023-05-21.md",
+    "CMSC_125/Memory Management.md",
+    "CMSC_125/Processor Management.md",
     "CMSC_125/Machine Problem 1 Notes.md",
+    "Daily Log/Wed@2023-05-17.md",
+    "CMSC_125/AlbaceaNotes.md",
+    "Untitled 1.md",
+    "Daily Log/Tue@2023-05-16.md",
+    "CMSC170/Bayesian Stuff.md",
+    "CMSC170",
+    "Daily Log/Sat@2023-04-29.md",
+    "CMSC_125/Introduction.md",
+    "CMSC_125/CMSC_125_Root.md",
+    "Daily Log/Wed@2023-04-19.md",
     "Daily Log/Sun@2023-04-9.md",
     "PI 100/Rizal Sa Dapitan.md",
     "Daily Log/Thu@2023-04-6.md",
     "DeepLearningAI/CourseOne/NeuralNetwork.md",
-    "DeepLearningAI/DeepLearningRoot.md",
-    "Daily Log/Mon@2023-04-3.md",
-    "PhilStud/Liway.md",
-    "PhilStud/PS  Root.md",
-    "Daily Log/Thu@2023-03-30.md",
-    "PI 100/March20Bebut.md",
-    "Daily Log/Mon@2023-03-20.md",
-    "PI 100/Bebut_Lecture.md",
-    "PI 100/Rizal_root.md",
-    "Daily Log/Mon@2023-03-13.md",
     "pastes/Pasted image 20230303095319.png",
-    "Data Structures/DataStructRoot.md",
-    "Daily Log/Thu@2023-03-9.md",
-    "Data Structures/SearchAlgs.md",
-    "Data Structures/GraphAlgs.md",
-    "Daily Log/Fri@2023-03-3.md",
     "Data Structures",
-    "CMSC_125/CMSC_125_Root.md",
-    "CMSC_125/Introduction.md",
-    "VaultRoot.md",
-    "PhilStud/AuthoritarianPersonality.md",
-    "PhilStud/Historical and Dialectical Materialism.md",
-    "PhilStud/Neoliberalism.md",
     "CMSC_125/Machine Problem 1.pdf"
   ]
 }

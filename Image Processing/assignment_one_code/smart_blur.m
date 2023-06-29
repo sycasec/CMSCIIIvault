@@ -33,7 +33,39 @@ end
 
 % ------ INSERT YOUR CODE BELOW ------
 
-B = rand(size(I,2),size(I,2)); % dummy result, remove this line
+% creating the averaging filter
+averaging_filter = ones(N)/N^2;
+
+% creating the Sobel gradient filters
+I_x = (1/240) * [-4   -5  0  5  4 ;
+                 -8  -10  0 10  8 ; 
+                 -10 -20  0 20 10 ;
+                 -8  -10  0 10  8 ;
+                 -4  -5   0  5  4];
+
+I_y = (1/240) * [ 4   8  10   8  4; 
+                  5  10  20  10  5; 
+                  0   0   0   0  0; 
+                 -5 -10 -20 -10 -5; 
+                 -4  -8 -10  -8 -4];
+
+% compute the x and y gradients
+Gx = conv2(I, I_x, 'same');
+Gy = conv2(I, I_y, 'same');
+
+% compute the gradient magnitude using the provided equation
+G = sqrt(Gx.^2 + Gy.^2);
+
+%compute the weighing function for each pixel
+W = min(tolerance./G, 1);
+
+% blur the image with the averaging filter
+B = conv2(I, averaging_filter, 'same');
+
+% Construct the output image as combination of the blurred and original
+% images
+
+B = W.*B + (1.-W) .* I;
 
 % ------ INSERT YOUR CODE ABOVE ------
 
