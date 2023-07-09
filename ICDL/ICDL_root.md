@@ -1,5 +1,6 @@
 # ICDL root note
 
+[[VaultRoot]]
 ## [[ICDL_ee_bigdata]]
 - [what is big data?](app://obsidian.md/index.html#what%20is%20big%20data?)
     - [Structured Data](app://obsidian.md/index.html#Structured%20Data)
@@ -24,3 +25,14 @@
     - [Speed and Accuracy](app://obsidian.md/index.html#Speed%20and%20Accuracy)
     - [NLP](app://obsidian.md/index.html#NLP)
 ## [[ICDL_bigdata_env]]
+## [[ICDL_bigdata_practice]]
+## [[ICDL_bd_adoption]]
+
+## [[ICDL_cloudcomputing]]
+## [[ICDL_iaas]]
+## [[ICDL_paas]]
+## [[ICDL_faas]]
+
+
+## [[ICDL_deployment]]
+## [[ICDL_adoption]]

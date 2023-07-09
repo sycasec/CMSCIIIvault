@@ -17,7 +17,9 @@
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
+  "dynamicStyling": "colorful",
   "isLeftHanded": false,
+  "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
@@ -80,10 +82,11 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "1.8.16",
+  "previousRelease": "1.9.6",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
+  "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
@@ -399,5 +402,11 @@
       }
     }
   ],
-  "numberOfCustomPens": 0
+  "numberOfCustomPens": 0,
+  "pdfScale": 4,
+  "pdfBorderBox": true,
+  "pdfGapSize": 20,
+  "pdfLockAfterImport": true,
+  "pdfNumColumns": 1,
+  "pdfImportScale": 0.3
 }

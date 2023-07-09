@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Sun@2023-07-9",
+      "path": "Daily Log/Sun@2023-07-9.md"
+    },
+    {
+      "basename": "Beeg_data",
+      "path": "ICDL/Beeg_data.canvas"
+    },
+    {
       "basename": "ICDL_bigdata_env",
       "path": "ICDL/ICDL_bigdata_env.md"
+    },
+    {
+      "basename": "Pasted image 20230630060805",
+      "path": "pastes/Pasted image 20230630060805.png"
+    },
+    {
+      "basename": "Pasted image 20230630060553",
+      "path": "pastes/Pasted image 20230630060553.png"
+    },
+    {
+      "basename": "Pasted image 20230630060932",
+      "path": "pastes/Pasted image 20230630060932.png"
+    },
+    {
+      "basename": "ICDL_bigdata_practice",
+      "path": "ICDL/ICDL_bigdata_practice.md"
     },
     {
       "basename": "ICDL_root",
@@ -11,6 +35,106 @@
     {
       "basename": "ICDL_ee_bigdata",
       "path": "ICDL/ICDL_ee_bigdata.md"
+    },
+    {
+      "basename": "ICDL_adoption",
+      "path": "ICDL/ICDL_adoption.md"
+    },
+    {
+      "basename": "ccna_network_addressing",
+      "path": "CCNA/ccna_network_addressing.md"
+    },
+    {
+      "basename": "Fri@2023-07-7",
+      "path": "Daily Log/Fri@2023-07-7.md"
+    },
+    {
+      "basename": "ccna_root",
+      "path": "CCNA/ccna_root.md"
+    },
+    {
+      "basename": "GitAdmin",
+      "path": "Fullscale/GitAdmin.md"
+    },
+    {
+      "basename": "Thu@2023-07-6",
+      "path": "Daily Log/Thu@2023-07-6.md"
+    },
+    {
+      "basename": "ICDL_cloudcomputing",
+      "path": "ICDL/ICDL_cloudcomputing.md"
+    },
+    {
+      "basename": "ICDL_deployment",
+      "path": "ICDL/ICDL_deployment.md"
+    },
+    {
+      "basename": "ICDL_faas",
+      "path": "ICDL/ICDL_faas.md"
+    },
+    {
+      "basename": "ICDL_iaas",
+      "path": "ICDL/ICDL_iaas.md"
+    },
+    {
+      "basename": "ICDL_saas",
+      "path": "ICDL/ICDL_saas.md"
+    },
+    {
+      "basename": "ICDL_paas",
+      "path": "ICDL/ICDL_paas.md"
+    },
+    {
+      "basename": "comptia_root",
+      "path": "CompTIA_A+/comptia_root.md"
+    },
+    {
+      "basename": "Wed@2023-07-5",
+      "path": "Daily Log/Wed@2023-07-5.md"
+    },
+    {
+      "basename": "VisualStudioQuiz",
+      "path": "Fullscale/VisualStudioQuiz.md"
+    },
+    {
+      "basename": "VisualStudio",
+      "path": "Fullscale/VisualStudio.md"
+    },
+    {
+      "basename": "fullscale_root",
+      "path": "Fullscale/fullscale_root.md"
+    },
+    {
+      "basename": "July4_slice",
+      "path": "Fullscale/July4_slice.md"
+    },
+    {
+      "basename": "Tue@2023-07-4",
+      "path": "Daily Log/Tue@2023-07-4.md"
+    },
+    {
+      "basename": "ICDL_bd_adoption",
+      "path": "ICDL/ICDL_bd_adoption.md"
+    },
+    {
+      "basename": "Pasted image 20230630122109",
+      "path": "pastes/Pasted image 20230630122109.png"
+    },
+    {
+      "basename": "Sun@2023-07-2",
+      "path": "Daily Log/Sun@2023-07-2.md"
+    },
+    {
+      "basename": "VaultRoot",
+      "path": "VaultRoot.md"
+    },
+    {
+      "basename": "Person",
+      "path": "Person.md"
+    },
+    {
+      "basename": "DatabaseInterfaceRoot",
+      "path": "DatabaseInterfaceRoot.md"
     },
     {
       "basename": "DataTypes",
@@ -61,10 +185,6 @@
       "path": "CMSC_125/AlbaceaNotes.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
       "basename": "Tue@2023-05-16",
       "path": "Daily Log/Tue@2023-05-16.md"
     },
@@ -79,126 +199,6 @@
     {
       "basename": "Mon@2023-05-15",
       "path": "Daily Log/Mon@2023-05-15.md"
-    },
-    {
-      "basename": "CMSC_125_Root",
-      "path": "CMSC_125/CMSC_125_Root.md"
-    },
-    {
-      "basename": "NeuralNetwork",
-      "path": "DeepLearningAI/CourseOne/NeuralNetwork.md"
-    },
-    {
-      "basename": "DeepLearningRoot",
-      "path": "DeepLearningAI/DeepLearningRoot.md"
-    },
-    {
-      "basename": "Mon@2023-04-3",
-      "path": "Daily Log/Mon@2023-04-3.md"
-    },
-    {
-      "basename": "Liway",
-      "path": "PhilStud/Liway.md"
-    },
-    {
-      "basename": "PS  Root",
-      "path": "PhilStud/PS  Root.md"
-    },
-    {
-      "basename": "Thu@2023-03-30",
-      "path": "Daily Log/Thu@2023-03-30.md"
-    },
-    {
-      "basename": "March20Bebut",
-      "path": "PI 100/March20Bebut.md"
-    },
-    {
-      "basename": "Mon@2023-03-20",
-      "path": "Daily Log/Mon@2023-03-20.md"
-    },
-    {
-      "basename": "Bebut_Lecture",
-      "path": "PI 100/Bebut_Lecture.md"
-    },
-    {
-      "basename": "Rizal_root",
-      "path": "PI 100/Rizal_root.md"
-    },
-    {
-      "basename": "Rizal Sa Dapitan",
-      "path": "PI 100/Rizal Sa Dapitan.md"
-    },
-    {
-      "basename": "Mon@2023-03-13",
-      "path": "Daily Log/Mon@2023-03-13.md"
-    },
-    {
-      "basename": "Pasted image 20230303095319",
-      "path": "pastes/Pasted image 20230303095319.png"
-    },
-    {
-      "basename": "DataStructRoot",
-      "path": "Data Structures/DataStructRoot.md"
-    },
-    {
-      "basename": "Thu@2023-03-9",
-      "path": "Daily Log/Thu@2023-03-9.md"
-    },
-    {
-      "basename": "SearchAlgs",
-      "path": "Data Structures/SearchAlgs.md"
-    },
-    {
-      "basename": "GraphAlgs",
-      "path": "Data Structures/GraphAlgs.md"
-    },
-    {
-      "basename": "Fri@2023-03-3",
-      "path": "Daily Log/Fri@2023-03-3.md"
-    },
-    {
-      "basename": "VaultRoot",
-      "path": "VaultRoot.md"
-    },
-    {
-      "basename": "AuthoritarianPersonality",
-      "path": "PhilStud/AuthoritarianPersonality.md"
-    },
-    {
-      "basename": "Historical and Dialectical Materialism",
-      "path": "PhilStud/Historical and Dialectical Materialism.md"
-    },
-    {
-      "basename": "Neoliberalism",
-      "path": "PhilStud/Neoliberalism.md"
-    },
-    {
-      "basename": "Thu@2023-03-2",
-      "path": "Daily Log/Thu@2023-03-2.md"
-    },
-    {
-      "basename": "Video Conference Day 1",
-      "path": "PI 100/Video Conference Day 1.md"
-    },
-    {
-      "basename": "Buhay ng Isang Bayani Docu",
-      "path": "PI 100/Buhay ng Isang Bayani Docu.md"
-    },
-    {
-      "basename": "Wed@2023-03-1",
-      "path": "Daily Log/Wed@2023-03-1.md"
-    },
-    {
-      "basename": "Tue@2023-02-28",
-      "path": "Daily Log/Tue@2023-02-28.md"
-    },
-    {
-      "basename": "Mon@2023-02-27",
-      "path": "Daily Log/Mon@2023-02-27.md"
-    },
-    {
-      "basename": "Machine Problem 1",
-      "path": "CMSC_125/Machine Problem 1.pdf"
     }
   ],
   "omittedPaths": [],

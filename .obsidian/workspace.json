@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICDL/ICDL_bigdata_env.md",
+                "file": "Daily Log/Sun@2023-07-9.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,16 +112,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICDL/ICDL_bigdata_env.md"
+                "file": "Daily Log/Sun@2023-07-9.md"
               }
-            }
-          },
-          {
-            "id": "496c643a5efc4af7",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           },
           {
@@ -138,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICDL/ICDL_bigdata_env.md",
+                "file": "Daily Log/Sun@2023-07-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,13 +147,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICDL/ICDL_bigdata_env.md",
+                "file": "Daily Log/Sun@2023-07-9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "389fbe82228d18a8",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,40 +178,55 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "active": "8fddd73e1b700a3c",
   "lastOpenFiles": [
+    "ICDL/ICDL_bigdata_practice.md",
+    "ICDL/Beeg_data.canvas",
     "ICDL/ICDL_bigdata_env.md",
     "ICDL/ICDL_root.md",
-    "ICDL/ICDL_ee_bigdata.md",
-    "IBM Stuff/IBMDataEng/CourseOne/DataTypes.md",
-    "IBM Stuff/IBMDataEng/CourseOne/CourseOneRoot.md",
-    "IBM Stuff/IBMDataEng/CourseOne/BigData.md",
-    "Daily Log/Thu@2023-06-29.md",
-    "ICDL",
-    "Daily Log/Sat@2023-05-27.md",
-    "PhilStud/reading_the_image.md",
-    "Daily Log/Sun@2023-05-21.md",
-    "CMSC_125/Memory Management.md",
-    "CMSC_125/Processor Management.md",
-    "CMSC_125/Machine Problem 1 Notes.md",
-    "Daily Log/Wed@2023-05-17.md",
-    "CMSC_125/AlbaceaNotes.md",
+    "Untitled.canvas",
+    "Untitled.md",
     "Untitled 1.md",
-    "Daily Log/Tue@2023-05-16.md",
-    "CMSC170/Bayesian Stuff.md",
+    "ICDL/ICDL_adoption.md",
+    "Daily Log/Sun@2023-07-9.md",
+    "CCNA/ccna_network_addressing.md",
+    "Daily Log/Fri@2023-07-7.md",
+    "CCNA/ccna_root.md",
+    "Fullscale/GitAdmin.md",
+    "CCNA",
+    "Daily Log/Thu@2023-07-6.md",
+    "ICDL/ICDL_deployment.md",
+    "ICDL/ICDL_faas.md",
+    "ICDL/ICDL_iaas.md",
+    "ICDL/ICDL_ee_bigdata.md",
+    "ICDL/ICDL_saas.md",
+    "ICDL/ICDL_paas.md",
+    "Pasted image 20230706084135.png",
+    "CompTIA_A+/comptia_root.md",
+    "Daily Log/Wed@2023-07-5.md",
+    "CompTIA_A+",
+    "Fullscale/VisualStudio.md",
+    "Fullscale/VisualStudioQuiz.md",
+    "Fullscale/fullscale_root.md",
+    "Fullscale/July4_slice.md",
+    "Daily Log/Tue@2023-07-4.md",
+    "Fullscale",
+    "Pasted image 20230702123029.png",
+    "ICDL/ICDL_cloudcomputing.md",
+    "Pasted image 20230702122410.png",
+    "Pasted image 20230702121859.png",
+    "pastes/Pasted image 20230630122109.png",
+    "pastes/Pasted image 20230630120240.png",
+    "pastes/Pasted image 20230630114949.png",
+    "pastes/Pasted image 20230630060932.png",
+    "pastes/Pasted image 20230630060805.png",
+    "pastes/Pasted image 20230630060553.png",
+    "ICDL",
     "CMSC170",
-    "Daily Log/Sat@2023-04-29.md",
-    "CMSC_125/Introduction.md",
-    "CMSC_125/CMSC_125_Root.md",
-    "Daily Log/Wed@2023-04-19.md",
-    "Daily Log/Sun@2023-04-9.md",
-    "PI 100/Rizal Sa Dapitan.md",
-    "Daily Log/Thu@2023-04-6.md",
-    "DeepLearningAI/CourseOne/NeuralNetwork.md",
-    "pastes/Pasted image 20230303095319.png",
     "Data Structures",
     "CMSC_125/Machine Problem 1.pdf"
   ]

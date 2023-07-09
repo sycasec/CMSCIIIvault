@@ -6,7 +6,7 @@
     "downscalePercent": 100
   },
   "readableLineLength": false,
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": true,
   "spellcheck": true,
   "promptDelete": false,
