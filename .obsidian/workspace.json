@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Log/Sun@2023-07-9.md",
+                "file": "ICDL/ICDL_faas.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Log/Sun@2023-07-9.md"
+                "file": "ICDL/ICDL_faas.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Log/Sun@2023-07-9.md",
+                "file": "ICDL/ICDL_faas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Log/Sun@2023-07-9.md",
+                "file": "ICDL/ICDL_faas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,22 +184,25 @@
   },
   "active": "8fddd73e1b700a3c",
   "lastOpenFiles": [
-    "ICDL/ICDL_bigdata_practice.md",
     "ICDL/Beeg_data.canvas",
-    "ICDL/ICDL_bigdata_env.md",
+    "ICDL/ICDL_deployment.md",
+    "ICDL/ICDL_adoption.md",
+    "ICDL/ICDL_bd_adoption.md",
+    "ICDL/ICDL_cloudcomputing.md",
+    "ICDL/ICDL_bigdata_practice.md",
     "ICDL/ICDL_root.md",
-    "Untitled.canvas",
+    "Daily Log/Mon@2023-07-10.md",
+    "Daily Log/Sun@2023-07-9.md",
     "Untitled.md",
     "Untitled 1.md",
-    "ICDL/ICDL_adoption.md",
-    "Daily Log/Sun@2023-07-9.md",
+    "ICDL/ICDL_bigdata_env.md",
+    "Untitled.canvas",
     "CCNA/ccna_network_addressing.md",
     "Daily Log/Fri@2023-07-7.md",
     "CCNA/ccna_root.md",
     "Fullscale/GitAdmin.md",
     "CCNA",
     "Daily Log/Thu@2023-07-6.md",
-    "ICDL/ICDL_deployment.md",
     "ICDL/ICDL_faas.md",
     "ICDL/ICDL_iaas.md",
     "ICDL/ICDL_ee_bigdata.md",
@@ -211,12 +214,8 @@
     "CompTIA_A+",
     "Fullscale/VisualStudio.md",
     "Fullscale/VisualStudioQuiz.md",
-    "Fullscale/fullscale_root.md",
-    "Fullscale/July4_slice.md",
-    "Daily Log/Tue@2023-07-4.md",
     "Fullscale",
     "Pasted image 20230702123029.png",
-    "ICDL/ICDL_cloudcomputing.md",
     "Pasted image 20230702122410.png",
     "Pasted image 20230702121859.png",
     "pastes/Pasted image 20230630122109.png",

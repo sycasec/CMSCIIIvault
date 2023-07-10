@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Sun@2023-07-9",
-      "path": "Daily Log/Sun@2023-07-9.md"
+      "basename": "ICDL_faas",
+      "path": "ICDL/ICDL_faas.md"
     },
     {
       "basename": "Beeg_data",
       "path": "ICDL/Beeg_data.canvas"
+    },
+    {
+      "basename": "ICDL_deployment",
+      "path": "ICDL/ICDL_deployment.md"
+    },
+    {
+      "basename": "ICDL_adoption",
+      "path": "ICDL/ICDL_adoption.md"
+    },
+    {
+      "basename": "ICDL_bd_adoption",
+      "path": "ICDL/ICDL_bd_adoption.md"
+    },
+    {
+      "basename": "ICDL_cloudcomputing",
+      "path": "ICDL/ICDL_cloudcomputing.md"
+    },
+    {
+      "basename": "ICDL_bigdata_practice",
+      "path": "ICDL/ICDL_bigdata_practice.md"
+    },
+    {
+      "basename": "ICDL_root",
+      "path": "ICDL/ICDL_root.md"
+    },
+    {
+      "basename": "Mon@2023-07-10",
+      "path": "Daily Log/Mon@2023-07-10.md"
+    },
+    {
+      "basename": "Sun@2023-07-9",
+      "path": "Daily Log/Sun@2023-07-9.md"
     },
     {
       "basename": "ICDL_bigdata_env",
@@ -25,20 +57,8 @@
       "path": "pastes/Pasted image 20230630060932.png"
     },
     {
-      "basename": "ICDL_bigdata_practice",
-      "path": "ICDL/ICDL_bigdata_practice.md"
-    },
-    {
-      "basename": "ICDL_root",
-      "path": "ICDL/ICDL_root.md"
-    },
-    {
       "basename": "ICDL_ee_bigdata",
       "path": "ICDL/ICDL_ee_bigdata.md"
-    },
-    {
-      "basename": "ICDL_adoption",
-      "path": "ICDL/ICDL_adoption.md"
     },
     {
       "basename": "ccna_network_addressing",
@@ -59,18 +79,6 @@
     {
       "basename": "Thu@2023-07-6",
       "path": "Daily Log/Thu@2023-07-6.md"
-    },
-    {
-      "basename": "ICDL_cloudcomputing",
-      "path": "ICDL/ICDL_cloudcomputing.md"
-    },
-    {
-      "basename": "ICDL_deployment",
-      "path": "ICDL/ICDL_deployment.md"
-    },
-    {
-      "basename": "ICDL_faas",
-      "path": "ICDL/ICDL_faas.md"
     },
     {
       "basename": "ICDL_iaas",
@@ -111,10 +119,6 @@
     {
       "basename": "Tue@2023-07-4",
       "path": "Daily Log/Tue@2023-07-4.md"
-    },
-    {
-      "basename": "ICDL_bd_adoption",
-      "path": "ICDL/ICDL_bd_adoption.md"
     },
     {
       "basename": "Pasted image 20230630122109",
@@ -195,10 +199,6 @@
     {
       "basename": "Introduction",
       "path": "CMSC_125/Introduction.md"
-    },
-    {
-      "basename": "Mon@2023-05-15",
-      "path": "Daily Log/Mon@2023-05-15.md"
     }
   ],
   "omittedPaths": [],

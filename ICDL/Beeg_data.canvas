@@ -26,7 +26,7 @@
 		{"type":"text","text":"#### NAMESPACE","id":"0821b18d343fba0b","x":1493,"y":-570,"width":250,"height":60},
 		{"type":"text","text":"- Data is replicated across multiple servers\n- Acts as a load balancing mechanism","id":"2ac3e866e8ba6ce1","x":1938,"y":-482,"width":250,"height":114},
 		{"type":"text","text":"- Backend API has namespaces targeting folders, which handle routing.\n- Files are incontiguously stored in different servers\n\n","id":"d0b14809db41a9f1","x":1493,"y":-491,"width":250,"height":227},
-		{"id":"e97a33e12641b2b3","x":1418,"y":-932,"width":400,"height":264,"type":"file","file":"pastes/Pasted image 20230630060805.png"},
+		{"type":"file","file":"pastes/Pasted image 20230630060805.png","id":"e97a33e12641b2b3","x":1418,"y":-932,"width":400,"height":264},
 		{"type":"text","text":"### Cloud Storage","id":"5535ad95306461e6","x":1040,"y":-200,"width":250,"height":72},
 		{"type":"file","file":"ICDL/ICDL_bigdata_env.md","id":"1b7c7f996e6dd19e","x":951,"y":200,"width":792,"height":604}
 	],

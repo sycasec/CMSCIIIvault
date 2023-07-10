@@ -26,7 +26,7 @@
 		- maintained by cloud owner
 		- firewall protection
 		- user auth
-	- ##### flexible
+	- ##### CUSTOMIZABLE
 		- storage and network highly customizable
 		- more flexible than other deployment models
 	- ##### HIGH RELIABILITY
@@ -53,7 +53,7 @@
 - amazon EC2
  
 ### PROS
-- #### flexible
+- #### ACCESSIBLE
 	- location independent
 	- available anywhere anytime
 - #### cost-effective
