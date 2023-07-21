@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "ICDL_faas",
-      "path": "ICDL/ICDL_faas.md"
+      "basename": "ASP.NET_CoreFundamentals",
+      "path": "Fullscale/ASP.NET/ASP.NET_CoreFundamentals.md"
     },
     {
-      "basename": "Beeg_data",
-      "path": "ICDL/Beeg_data.canvas"
+      "basename": "ASP.NET",
+      "path": "Fullscale/ASP.NET/ASP.NET.md"
+    },
+    {
+      "basename": "Fri@2023-07-21",
+      "path": "Daily Log/Fri@2023-07-21.md"
+    },
+    {
+      "basename": "Thu@2023-07-20",
+      "path": "Daily Log/Thu@2023-07-20.md"
+    },
+    {
+      "basename": "Cloud_Computing",
+      "path": "Fullscale/Cloud_Computing.md"
+    },
+    {
+      "basename": "fullscale_root",
+      "path": "Fullscale/fullscale_root.md"
+    },
+    {
+      "basename": "July4_slice",
+      "path": "Fullscale/July4_slice.md"
+    },
+    {
+      "basename": "VisualStudio",
+      "path": "Fullscale/VisualStudio.md"
+    },
+    {
+      "basename": "VisualStudioQuiz",
+      "path": "Fullscale/VisualStudioQuiz.md"
+    },
+    {
+      "basename": "GitAdmin",
+      "path": "Fullscale/GitAdmin.md"
+    },
+    {
+      "basename": "Wed@2023-07-19",
+      "path": "Daily Log/Wed@2023-07-19.md"
+    },
+    {
+      "basename": "archinstall",
+      "path": "ArchLinux/archinstall.md"
+    },
+    {
+      "basename": "Thu@2023-07-13",
+      "path": "Daily Log/Thu@2023-07-13.md"
     },
     {
       "basename": "ICDL_deployment",
@@ -17,8 +61,8 @@
       "path": "ICDL/ICDL_adoption.md"
     },
     {
-      "basename": "ICDL_bd_adoption",
-      "path": "ICDL/ICDL_bd_adoption.md"
+      "basename": "ICDL_faas",
+      "path": "ICDL/ICDL_faas.md"
     },
     {
       "basename": "ICDL_cloudcomputing",
@@ -29,8 +73,40 @@
       "path": "ICDL/ICDL_bigdata_practice.md"
     },
     {
+      "basename": "ICDL_bd_adoption",
+      "path": "ICDL/ICDL_bd_adoption.md"
+    },
+    {
+      "basename": "ICDL_saas",
+      "path": "ICDL/ICDL_saas.md"
+    },
+    {
+      "basename": "ICDL_paas",
+      "path": "ICDL/ICDL_paas.md"
+    },
+    {
+      "basename": "ICDL_iaas",
+      "path": "ICDL/ICDL_iaas.md"
+    },
+    {
       "basename": "ICDL_root",
       "path": "ICDL/ICDL_root.md"
+    },
+    {
+      "basename": "ICDL_bigdata_env",
+      "path": "ICDL/ICDL_bigdata_env.md"
+    },
+    {
+      "basename": "ICDL_ee_bigdata",
+      "path": "ICDL/ICDL_ee_bigdata.md"
+    },
+    {
+      "basename": "Tue@2023-07-11",
+      "path": "Daily Log/Tue@2023-07-11.md"
+    },
+    {
+      "basename": "Beeg_data",
+      "path": "ICDL/Beeg_data.canvas"
     },
     {
       "basename": "Mon@2023-07-10",
@@ -39,10 +115,6 @@
     {
       "basename": "Sun@2023-07-9",
       "path": "Daily Log/Sun@2023-07-9.md"
-    },
-    {
-      "basename": "ICDL_bigdata_env",
-      "path": "ICDL/ICDL_bigdata_env.md"
     },
     {
       "basename": "Pasted image 20230630060805",
@@ -57,10 +129,6 @@
       "path": "pastes/Pasted image 20230630060932.png"
     },
     {
-      "basename": "ICDL_ee_bigdata",
-      "path": "ICDL/ICDL_ee_bigdata.md"
-    },
-    {
       "basename": "ccna_network_addressing",
       "path": "CCNA/ccna_network_addressing.md"
     },
@@ -73,24 +141,8 @@
       "path": "CCNA/ccna_root.md"
     },
     {
-      "basename": "GitAdmin",
-      "path": "Fullscale/GitAdmin.md"
-    },
-    {
       "basename": "Thu@2023-07-6",
       "path": "Daily Log/Thu@2023-07-6.md"
-    },
-    {
-      "basename": "ICDL_iaas",
-      "path": "ICDL/ICDL_iaas.md"
-    },
-    {
-      "basename": "ICDL_saas",
-      "path": "ICDL/ICDL_saas.md"
-    },
-    {
-      "basename": "ICDL_paas",
-      "path": "ICDL/ICDL_paas.md"
     },
     {
       "basename": "comptia_root",
@@ -99,22 +151,6 @@
     {
       "basename": "Wed@2023-07-5",
       "path": "Daily Log/Wed@2023-07-5.md"
-    },
-    {
-      "basename": "VisualStudioQuiz",
-      "path": "Fullscale/VisualStudioQuiz.md"
-    },
-    {
-      "basename": "VisualStudio",
-      "path": "Fullscale/VisualStudio.md"
-    },
-    {
-      "basename": "fullscale_root",
-      "path": "Fullscale/fullscale_root.md"
-    },
-    {
-      "basename": "July4_slice",
-      "path": "Fullscale/July4_slice.md"
     },
     {
       "basename": "Tue@2023-07-4",
@@ -163,42 +199,6 @@
     {
       "basename": "reading_the_image",
       "path": "PhilStud/reading_the_image.md"
-    },
-    {
-      "basename": "Sun@2023-05-21",
-      "path": "Daily Log/Sun@2023-05-21.md"
-    },
-    {
-      "basename": "Memory Management",
-      "path": "CMSC_125/Memory Management.md"
-    },
-    {
-      "basename": "Processor Management",
-      "path": "CMSC_125/Processor Management.md"
-    },
-    {
-      "basename": "Machine Problem 1 Notes",
-      "path": "CMSC_125/Machine Problem 1 Notes.md"
-    },
-    {
-      "basename": "Wed@2023-05-17",
-      "path": "Daily Log/Wed@2023-05-17.md"
-    },
-    {
-      "basename": "AlbaceaNotes",
-      "path": "CMSC_125/AlbaceaNotes.md"
-    },
-    {
-      "basename": "Tue@2023-05-16",
-      "path": "Daily Log/Tue@2023-05-16.md"
-    },
-    {
-      "basename": "Bayesian Stuff",
-      "path": "CMSC170/Bayesian Stuff.md"
-    },
-    {
-      "basename": "Introduction",
-      "path": "CMSC_125/Introduction.md"
     }
   ],
   "omittedPaths": [],

@@ -1,3 +1,4 @@
+[[fullscale_root]]
 - While debugging an application, you notice that certain variables appear as grey in the watch window and you cannot see values. What is most likely the reason for this?
 	- The variables do not relate to the current scope your breakpoint has been set to.
 - You notice some of your files are hidden from the Solution Explorer view even though you know they are there when browsing them in File Explorer in Windows. What do you do to show the hidden files?

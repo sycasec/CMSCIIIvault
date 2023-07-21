@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICDL/ICDL_faas.md",
+                "file": "Fullscale/ASP.NET/ASP.NET_CoreFundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICDL/ICDL_faas.md"
+                "file": "Fullscale/ASP.NET/ASP.NET_CoreFundamentals.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICDL/ICDL_faas.md",
+                "file": "Fullscale/ASP.NET/ASP.NET_CoreFundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICDL/ICDL_faas.md",
+                "file": "Fullscale/ASP.NET/ASP.NET_CoreFundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,36 +184,40 @@
   },
   "active": "8fddd73e1b700a3c",
   "lastOpenFiles": [
-    "ICDL/Beeg_data.canvas",
-    "ICDL/ICDL_deployment.md",
-    "ICDL/ICDL_adoption.md",
-    "ICDL/ICDL_bd_adoption.md",
-    "ICDL/ICDL_cloudcomputing.md",
-    "ICDL/ICDL_bigdata_practice.md",
-    "ICDL/ICDL_root.md",
-    "Daily Log/Mon@2023-07-10.md",
-    "Daily Log/Sun@2023-07-9.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "ICDL/ICDL_bigdata_env.md",
-    "Untitled.canvas",
-    "CCNA/ccna_network_addressing.md",
-    "Daily Log/Fri@2023-07-7.md",
-    "CCNA/ccna_root.md",
-    "Fullscale/GitAdmin.md",
-    "CCNA",
-    "Daily Log/Thu@2023-07-6.md",
-    "ICDL/ICDL_faas.md",
-    "ICDL/ICDL_iaas.md",
-    "ICDL/ICDL_ee_bigdata.md",
-    "ICDL/ICDL_saas.md",
-    "ICDL/ICDL_paas.md",
-    "Pasted image 20230706084135.png",
-    "CompTIA_A+/comptia_root.md",
-    "Daily Log/Wed@2023-07-5.md",
-    "CompTIA_A+",
+    "Fullscale/ASP.NET/ASP.NET.md",
+    "Daily Log/Fri@2023-07-21.md",
+    "Fullscale/ASP.NET/ASP.NET_CoreFundamentals.md",
+    "Fullscale/ASP.NET",
+    "Daily Log/Thu@2023-07-20.md",
+    "Fullscale/Cloud_Computing.md",
+    "Pasted image 20230719143303.png",
+    "Fullscale/fullscale_root.md",
+    "Fullscale/July4_slice.md",
     "Fullscale/VisualStudio.md",
     "Fullscale/VisualStudioQuiz.md",
+    "Fullscale/GitAdmin.md",
+    "Daily Log/Wed@2023-07-19.md",
+    "ArchLinux/archinstall.md",
+    "Daily Log/Thu@2023-07-13.md",
+    "ArchLinux",
+    "ICDL/ICDL_deployment.md",
+    "ICDL/ICDL_adoption.md",
+    "ICDL/ICDL_faas.md",
+    "ICDL/ICDL_cloudcomputing.md",
+    "ICDL/ICDL_bigdata_practice.md",
+    "ICDL/ICDL_bd_adoption.md",
+    "ICDL/ICDL_saas.md",
+    "ICDL/ICDL_paas.md",
+    "ICDL/ICDL_iaas.md",
+    "ICDL/ICDL_root.md",
+    "ICDL/ICDL_bigdata_env.md",
+    "ICDL/ICDL_ee_bigdata.md",
+    "Daily Log/Tue@2023-07-11.md",
+    "ICDL/Beeg_data.canvas",
+    "Untitled.canvas",
+    "CCNA",
+    "Pasted image 20230706084135.png",
+    "CompTIA_A+",
     "Fullscale",
     "Pasted image 20230702123029.png",
     "Pasted image 20230702122410.png",
@@ -223,7 +227,6 @@
     "pastes/Pasted image 20230630114949.png",
     "pastes/Pasted image 20230630060932.png",
     "pastes/Pasted image 20230630060805.png",
-    "pastes/Pasted image 20230630060553.png",
     "ICDL",
     "CMSC170",
     "Data Structures",

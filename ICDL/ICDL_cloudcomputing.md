@@ -39,7 +39,7 @@
 - enabled the development of ARPANET (Advanced Research Projects Agency Network)
 
 ### Virtualization (1970)
-- VMwar, run a completely different computer (VM) inside an existing OS
+- VMware, run a completely different computer (VM) inside an existing OS
 - took time sharing model to the next level
 
 ### First known definition of CC (1997)
