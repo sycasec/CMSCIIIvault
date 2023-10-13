@@ -1,3 +1,5 @@
+# Ethics (Lao)
+
 [[VaultRoot]]
 
 [[Week 1]]

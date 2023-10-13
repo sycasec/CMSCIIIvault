@@ -15,5 +15,7 @@
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "obsidian-smart-typography",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "vim-toggle",
+  "obsidian-relative-line-numbers"
 ]
