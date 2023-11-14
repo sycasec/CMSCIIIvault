@@ -1,0 +1,8 @@
+- How does each class interact and relate with the other classes? Show a diagram that depicts these interactions and relationships among the different classes
+- Show the exchange of messages between the client and the server classes
+	- send()
+	- recieve()
+	- for: 
+		- starting the game
+		- game proper 
+		- ending the game

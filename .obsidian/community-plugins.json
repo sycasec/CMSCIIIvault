@@ -12,10 +12,10 @@
   "nldates-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
-  "obsidian-minimal-settings",
   "obsidian-style-settings",
   "obsidian-smart-typography",
   "obsidian-excalidraw-plugin",
   "vim-toggle",
-  "obsidian-relative-line-numbers"
+  "obsidian-relative-line-numbers",
+  "obsidian-icon-folder"
 ]

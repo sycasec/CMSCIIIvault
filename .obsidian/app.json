@@ -11,5 +11,7 @@
   "spellcheck": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "attachmentFolderPath": "Pastes",
+  "newFileLocation": "current"
 }
