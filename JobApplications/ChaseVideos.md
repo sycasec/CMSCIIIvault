@@ -1,0 +1,22 @@
+# Videos from the Forage Job Simulation
+## Message
+- Breelin Motte
+	- 2020 CADP Analyst
+	- metrics, tracking, project management for in-house mobile app my workplace
+- Summer long program for students
+- Full-time, two year program for graduates
+	- 3x Eight-month rotations 
+	- 3 skill areas:
+		- data analytics
+		- process improvement
+		- project management
+- analyze operational and financial data
+- assist data driven strategy and development processes
+- project management and risk management
+- projects in:
+	- globalization
+	- regulatory frameworks
+	- blockchain and digital currency
+	- mobile enablement (for disabled people)
+	- AI and ML
+	- quantum computing

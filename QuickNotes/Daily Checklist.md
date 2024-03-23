@@ -1,0 +1,14 @@
+# Daily Meal
+- **Morning**
+	- 2 Scrambled Eggs
+	- whole grain bread with idk
+	- Greek yogurt (???)
+		- honey
+- **Lunch**
+	- Egg salad sandwhich (???) lmao any egg-based meal
+	- BREAD
+	- lettuce and tomato ???
+- **Afternoon snack**
+	- IDK
+- **Dinner**
+	- Omelette

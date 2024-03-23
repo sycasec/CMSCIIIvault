@@ -1,4 +1,4 @@
-[[Week2]]
+[[CMSC 192 D/Week 2/Week2]]
 # Introduction to Computer Ethics
 ```toc
 ```

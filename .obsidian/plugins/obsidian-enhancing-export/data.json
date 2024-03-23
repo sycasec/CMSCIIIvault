@@ -41,14 +41,23 @@
     },
     {
       "name": "OPML"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "Bibliography"
     }
   ],
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
+  "env": {},
+  "showExportProgressBar": true,
   "version": "1.1.8",
   "lastEditName": "PDF",
   "lastExportDirectory": {
-    "win32": "C:\\Users\\Kyle\\Documents"
+    "win32": "C:\\Users\\Kyle\\Documents",
+    "linux": "/home/sycasec/Documents"
   },
   "lastExportType": "PDF"
 }

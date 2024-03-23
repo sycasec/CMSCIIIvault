@@ -1,204 +1,192 @@
 {
   "recentFiles": [
     {
-      "basename": "ML_Lecture5",
-      "path": "CMSC173/ML_Lecture5.md"
+      "basename": "MataPentest",
+      "path": "HTB/MataPentest.md"
     },
     {
-      "basename": "LabExer7",
-      "path": "CMSC137/LabExer7.md"
+      "basename": "DNS",
+      "path": "HTB/DNS.md"
     },
     {
-      "basename": "Untitled",
-      "path": "CMSC173/Untitled.md"
+      "basename": "Important",
+      "path": "HTB/Important.md"
     },
     {
-      "basename": "ML_Lecture4",
-      "path": "CMSC173/ML_Lecture4.md"
+      "basename": "DomainInfo",
+      "path": "HTB/DomainInfo.md"
     },
     {
-      "basename": "198.1-Introduction",
-      "path": "CMSC198.1/198.1-Introduction.md"
+      "basename": "Enumeration",
+      "path": "HTB/Enumeration.md"
     },
     {
-      "basename": "data_models",
-      "path": "system/templates/data_models.md"
+      "basename": "NmapLabs",
+      "path": "HTB/NmapLabs.md"
     },
     {
-      "basename": "Project Proposal",
-      "path": "CMSC_176/Project Proposal.md"
+      "basename": "NmapNotes2",
+      "path": "HTB/NmapNotes2.md"
     },
     {
-      "basename": "Lab_ex_7",
-      "path": "CMSC137/Lab_ex_7.md"
+      "basename": "NmapNotes",
+      "path": "HTB/NmapNotes.md"
     },
     {
-      "basename": "GroupAct_ProjectScheduling",
-      "path": "CMSC165/GroupAct_ProjectScheduling.md"
+      "basename": "NmapNotes1",
+      "path": "HTB/NmapNotes1.md"
     },
     {
-      "basename": "MorgaPart2",
-      "path": "PI 100/MorgaPart2.md"
+      "basename": "NFS",
+      "path": "HTB/NFS.md"
     },
     {
       "basename": "Obsidian Notes Flair",
       "path": "Templates/Obsidian Notes Flair.md"
     },
     {
-      "basename": "10-23-23_Lec2",
-      "path": "PI 100/10-23-23_Lec2.md"
+      "basename": "NmapCheatsheet",
+      "path": "HTB/NmapCheatsheet.md"
     },
     {
-      "basename": "kumar2013",
-      "path": "readings/ArticlePDFS/kumar2013.pdf"
+      "basename": "FTP",
+      "path": "HTB/FTP.md"
     },
     {
-      "basename": "STTF prediction in heterogenous condition using ANN",
-      "path": "readings/Articles/STTF prediction in heterogenous condition using ANN.md"
+      "basename": "Rust",
+      "path": "QuickNotes/Rust.md"
     },
     {
-      "basename": "QCLecture2",
-      "path": "Quantum/QCLecture2.md"
+      "basename": "SMB",
+      "path": "HTB/SMB.md"
     },
     {
-      "basename": "LabExer3",
-      "path": "CMSC137/LabExer3.pdf"
+      "basename": "MP2",
+      "path": "CMSC134/MP2.md"
     },
     {
-      "basename": "2023-11-10",
-      "path": "2023-11-10.md"
+      "basename": "SubnettingCheatSheet",
+      "path": "CCNA/SubnettingCheatSheet.md"
     },
     {
-      "basename": "DCN_Lab_11-07",
-      "path": "CMSC137/137/DCN_Lab_11-07.md"
+      "basename": "Subnetting",
+      "path": "CCNA/Subnetting.md"
     },
     {
-      "basename": "QC_solvingnotes",
-      "path": "Quantum/QC_solvingnotes.md"
+      "basename": "Drawing 2024-03-21 03.46.05.excalidraw",
+      "path": "CCNA/Drawing 2024-03-21 03.46.05.excalidraw.md"
     },
     {
-      "basename": "198.1_sources.root",
-      "path": "CMSC198.1/Sources/198.1_sources.root.md"
+      "basename": "CIDR",
+      "path": "CCNA/CIDR.md"
     },
     {
-      "basename": "QCLecture1",
-      "path": "Quantum/QCLecture1.md"
+      "basename": "ccna_network_addressing",
+      "path": "CCNA/ccna_network_addressing.md"
     },
     {
-      "basename": "QuantumComputingLecture",
-      "path": "Quantum/QuantumComputingLecture.md"
+      "basename": "IPLec",
+      "path": "QuickNotes/IPLec.md"
     },
     {
-      "basename": "DCN_Lecture_4",
-      "path": "CMSC137/DCN_Lecture_4.md"
+      "basename": "StuffToDo",
+      "path": "QuickNotes/StuffToDo.md"
     },
     {
-      "basename": "DCN_Lecture_3",
-      "path": "CMSC137/DCN_Lecture_3.md"
+      "basename": "Untitled 1",
+      "path": "QuickNotes/Untitled 1.md"
     },
     {
-      "basename": "CMSC137 Lec 3- The Physical Layer",
-      "path": "CMSC137/137/CMSC137 Lec 3- The Physical Layer.pdf"
+      "basename": "CyberSecNote 2",
+      "path": "CMSC134/CyberSecNote 2.md"
     },
     {
-      "basename": "Template Daily Log",
-      "path": "Templates/Template Daily Log.md"
+      "basename": "Go",
+      "path": "QuickNotes/Go.md"
     },
     {
-      "basename": "DCN_Lecture_1",
-      "path": "CMSC137/DCN_Lecture_1.md"
+      "basename": "consultation",
+      "path": "QuickNotes/consultation.md"
     },
     {
-      "basename": "DCN_Lecture_2",
-      "path": "CMSC137/DCN_Lecture_2.md"
+      "basename": "ExamPrep",
+      "path": "CMSC134/ExamPrep.md"
     },
     {
-      "basename": "CMSC137 Lec 4- The Data Link Layer",
-      "path": "CMSC137/137/CMSC137 Lec 4- The Data Link Layer.pdf"
+      "basename": "NAT",
+      "path": "HackingNotes/NAT.md"
     },
     {
-      "basename": "CMSC137 Lec 7- The Session Layer",
-      "path": "CMSC137/137/CMSC137 Lec 7- The Session Layer.pdf"
+      "basename": "LaTeX",
+      "path": "Templates/LaTeX.md"
     },
     {
-      "basename": "9-26-Presentation_notes",
-      "path": "CMSC198.1/9-26-Presentation_notes.md"
+      "basename": "Eth-LAN",
+      "path": "HackingNotes/Eth-LAN.md"
     },
     {
-      "basename": "Causal mapping",
-      "path": "CMSC198.1/Causal mapping.md"
+      "basename": "NetSec and DB Vulns",
+      "path": "IBM Stuff/IBM CyberSec/NetSec and DB Vulns.md"
     },
     {
-      "basename": "Short Term Traffic Forecasting",
-      "path": "CMSC198.1/Short Term Traffic Forecasting.md"
+      "basename": "IDS-IPS",
+      "path": "HackingNotes/IDS-IPS.md"
     },
     {
-      "basename": "cmsc198.1root",
-      "path": "CMSC198.1/cmsc198.1root.md"
+      "basename": "Untitled",
+      "path": "QuickNotes/Untitled.md"
     },
     {
-      "basename": "act1_mod1readings_printable_v2",
-      "path": "act1_mod1readings_printable_v2.pdf"
+      "basename": "Drawing 2024-03-11 09.25.37.excalidraw",
+      "path": "QuickNotes/Drawing 2024-03-11 09.25.37.excalidraw.md"
     },
     {
-      "basename": "VaultRoot",
-      "path": "VaultRoot.md"
+      "basename": "SRdeepLearningLec",
+      "path": "DL/SRdeepLearningLec.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "deepLearningLec1",
+      "path": "DL/deepLearningLec1.md"
     },
     {
-      "basename": "Drawing 2023-10-26 20.50.05.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-26 20.50.05.excalidraw.md"
+      "basename": "deepLearningLec2",
+      "path": "DL/deepLearningLec2.md"
     },
     {
-      "basename": "RootDailyLogs",
-      "path": "Daily Log/RootDailyLogs.md"
+      "basename": "deepLearningLec3",
+      "path": "DL/deepLearningLec3.md"
     },
     {
-      "basename": "Pasted Image 20230905171735_591",
-      "path": "Pasted Image 20230905171735_591.png"
+      "basename": "Block Cipher",
+      "path": "CMSC134/Block Cipher.md"
     },
     {
-      "basename": "ML_Lecture_1",
-      "path": "CMSC173/ML_Lecture_1.md"
+      "basename": "CsecNote8",
+      "path": "CMSC134/CsecNote8.md"
     },
     {
-      "basename": "CMSC137 Lec 6- The Transport Layer",
-      "path": "CMSC137/137/CMSC137 Lec 6- The Transport Layer.pdf"
+      "basename": "CyberSecNote0",
+      "path": "CMSC134/CyberSecNote0.md"
     },
     {
-      "basename": "CMSC137 Lec 5- The Network Layer",
-      "path": "CMSC137/137/CMSC137 Lec 5- The Network Layer.pdf"
+      "basename": "CsecNote5",
+      "path": "CMSC134/CsecNote5.md"
     },
     {
-      "basename": "SolarPanels",
-      "path": "CMSC_176/SolarPanels.md"
+      "basename": "CsecNote6",
+      "path": "CMSC134/CsecNote6.md"
     },
     {
-      "basename": "IoTEfficiency",
-      "path": "CMSC_176/IoTEfficiency.md"
+      "basename": "CsecNote7",
+      "path": "CMSC134/CsecNote7.md"
     },
     {
-      "basename": "EnergyHub",
-      "path": "CMSC_176/EnergyHub.md"
+      "basename": "NCDE",
+      "path": "research/NCDE.md"
     },
     {
-      "basename": "ACT",
-      "path": "CMSC_176/ACT.md"
-    },
-    {
-      "basename": "LeaderFollower",
-      "path": "CMSC_176/LeaderFollower.md"
-    },
-    {
-      "basename": "network-01-00017-v2",
-      "path": "CMSC_176/network-01-00017-v2.pdf"
-    },
-    {
-      "basename": "Limetal.2022",
-      "path": "CMSC_176/Limetal.2022.pdf"
+      "basename": "Untitled",
+      "path": "readings/Articles/Untitled.md"
     }
   ],
   "omittedPaths": [],

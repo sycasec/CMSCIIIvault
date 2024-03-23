@@ -5,7 +5,7 @@
     "margin": "0",
     "downscalePercent": 90
   },
-  "readableLineLength": false,
+  "readableLineLength": true,
   "vimMode": true,
   "showLineNumber": true,
   "spellcheck": true,
@@ -13,5 +13,6 @@
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
   "attachmentFolderPath": "Pastes",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "propertiesInDocument": "source"
 }

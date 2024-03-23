@@ -5,7 +5,6 @@
   "fantasy-calendar",
   "quick-latex",
   "recent-files-obsidian",
-  "obsidian-enhancing-export",
   "better-word-count",
   "obsidian-dynamic-toc",
   "mousewheel-image-zoom",
@@ -17,5 +16,6 @@
   "obsidian-excalidraw-plugin",
   "vim-toggle",
   "obsidian-relative-line-numbers",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-pandoc"
 ]

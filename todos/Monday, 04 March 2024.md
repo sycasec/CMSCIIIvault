@@ -1,0 +1,5 @@
+- [ ] Set consultation
+- [ ] Work on thesis
+- [ ] Finish philarts presentation
+- [ ] Read up on CS 134
+- [ ] Check Emails

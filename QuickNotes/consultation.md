@@ -1,0 +1,6 @@
+- replicate model spatiotemporal data
+- use STG NCDE model
+- google maps api account
+- run script every n seconds
+	- automate google maps api sampling data for 1 week or longer
+- 

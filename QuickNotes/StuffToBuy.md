@@ -1,0 +1,7 @@
+- [ ] Cable Manager / storage for desk
+- [ ] Powerbank
+- [ ] thunderbolt charger? that USB C charger that can charge laptop
+- [ ] Thinkpad or XPS
+- [ ] Iroshizuku Konpeki or Takesumi
+- [ ] TryHackMe monthly sub student
+- [ ] 

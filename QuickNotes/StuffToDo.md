@@ -1,0 +1,21 @@
+# Stuff I need to do
+- [ ] change shell to nu shell
+	- [ ] figure out how to customize / commands
+- [ ] use starfire prompt
+- [ ] change scripts directory from `.config/scripts` → `.local/bin`
+- [ ] get a working script to automate multimon adaptation
+	- [ ] https://github.com/LukeSmithxyz/voidrice/blob/master/.local/bin/displayselect
+- [ ] clean keyboard
+- [ ] WORK ON RESEARCH
+- [ ] finish CyberSec Blog
+- [ ] read up on Cybersec source mat CS 161
+- [ ] Research
+	- [ ] Make a dummy NODE, GRAPH + NODE, GRAPH CNN, GRAPH RNN on existing traffic data
+	- [ ] make a website with map of cebu
+		- [ ] try to only use a 1:1 image of map, but points represented locally in grid
+		- [ ] website should have functionality where you can swap roads.
+			- [ ] ACTUALLY THIS SEEMS DIFFICULT
+			- [ ] The obvious way to do this is to represent roads as edges
+			- [ ] THERES A MILLION ROADS
+	- [ ] do the website where you can prompt GPT
+		- [ ] LEGAL AIDE LMAO

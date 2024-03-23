@@ -4,59 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "44bca14b774df86e",
+        "id": "994b0bfa67948f63",
         "type": "tabs",
         "children": [
           {
-            "id": "e263df6b97fbb5bf",
+            "id": "4edaa0fbf190d321",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/templates/data_models.md",
+                "file": "HTB/MataPentest.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "30b24814bf1632c6",
+            "id": "5edb31f0b3a16d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readings/Articles/STTF prediction in heterogenous condition using ANN.md",
+                "file": "Templates/Obsidian Notes Flair.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a15e30643e62ef14",
+            "id": "97c87ae8b431d776",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC198.1/198.1-Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e94c255271293a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMSC173/ML_Lecture5.md",
+                "file": "HTB/FTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +72,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quantum",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -122,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358,
-    "collapsed": true
+    "width": 358
   },
   "right": {
     "id": "362628d18b5136e4",
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC173/ML_Lecture5.md"
+                "file": "HTB/MataPentest.md"
               }
             }
           },
@@ -168,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC173/ML_Lecture5.md",
+                "file": "HTB/MataPentest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC173/ML_Lecture5.md",
+                "file": "HTB/MataPentest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +191,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -224,9 +212,19 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "487a7a95df0b7f9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "HTB/MataPentest.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -245,54 +243,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e94c255271293a3f",
+  "active": "4edaa0fbf190d321",
   "lastOpenFiles": [
-    "Pastes/Pasted image 20231114200129.png",
-    "Pastes/Pasted image 20231114192156.png",
-    "CMSC137/LabExer7.md",
-    "CMSC173/ML_Lecture5.md",
-    "Pastes/Pasted image 20231114173112.png",
-    "Pastes/Pasted image 20231114172630.png",
-    "CMSC173/MP1-del_Castillo_Dy_Lardizabal_Quilario_Segovia.ipynb",
-    "CMSC173/Unconfirmed 454361.crdownload",
-    "CMSC173/Untitled.md",
-    "CMSC173/ML_Lecture4.md",
-    "CMSC198.1/198.1-Introduction.md",
-    "system/templates/data_models.md",
-    "CMSC_176/Project Proposal.md",
-    "CMSC173/Draft.ipynb",
-    "CMSC173/Unconfirmed 723800.crdownload",
-    "CMSC137/UML class.png.crdownload",
-    "CMSC137/Lab_ex_7.md",
-    "CMSC137/UML class.png",
-    "CMSC165/GroupAct_ProjectScheduling.md",
-    "PI 100/MorgaPart2.md",
+    "HTB/DNS.md",
+    "HTB/Important.md",
+    "HTB/ImportantSites.md",
+    "HTB/DomainInfo.md",
+    "HTB/MataPentest.md",
+    "HTB/Enumeration.md",
+    "HTB/NmapLabs.md",
+    "HTB/NmapNotes2.md",
+    "HTB/NmapNotes.md",
+    "HTB/NmapNotes1.md",
+    "HTB/ScriptKiddie.md",
+    "HTB/NFS.md",
+    "HTB/HTBroot.md",
+    "Pastes/Pasted image 20240323031357.png",
+    "Pastes/Pasted image 20240323031034.png",
     "Templates/Obsidian Notes Flair.md",
-    "PI 100/10-23-23_Lec2.md",
-    "readings/ArticlePDFS/kumar2013.pdf",
-    "readings/Articles/STTF prediction in heterogenous condition using ANN.md",
-    "Quantum/QCLecture2.md",
-    "CMSC137/LabExer3.pdf",
-    "2023-11-10.md",
-    "Notes",
-    "CMSC137/137/DCN_Lab_11-07.md",
-    "Quantum/QC_solvingnotes.md",
-    "CMSC198.1/Sources/198.1_sources.root.md",
-    "Quantum/QCLecture1.md",
-    "Quantum/QuantumComputingLecture.md",
-    "CMSC137/DCN_Lecture_4.md",
-    "Pastes/Pasted image 20231027135721.png",
-    "Pastes/Pasted image 20231027135707.png",
-    "Pastes/Pasted image 20231027135157.png",
-    "CMSC137/DCN_Lecture_3.md",
-    "CMSC137/137/CMSC137 Lec 3- The Physical Layer.pdf",
-    "Pastes/Pasted image 20231027121641.png",
-    "Templates/Template Daily Log.md",
-    "readings/Articles/STTF-overview of objectives and methods.md",
-    "readings/ArticlePDFS/Unconfirmed 395073.crdownload",
-    "CMSC137/DCN_Lecture_1.md",
-    "Pasted Image 20230905171735_591.png",
-    "Pastes/Pasted image 20231026190650.png",
+    "HTB/NmapCheatsheet.md",
+    "HTB/FTP.md",
+    "QuickNotes/Rust.md",
+    "HTB/SMB.md",
+    "CMSC134/MP2.md",
+    "HTB/Cloud Resources.md",
+    "Pastes/Pasted image 20240321233351.png",
+    "CCNA/SubnettingCheatSheet.md",
+    "CCNA/Subnetting.md",
+    "Pastes/Pasted image 20240321040327.png",
+    "Pastes/Pasted image 20240321035248.png",
+    "CCNA/Drawing 2024-03-21 03.46.05.excalidraw.md",
+    "Pastes/Pasted Image 20240321034744_286.png",
+    "CCNA/CIDR.md",
+    "CCNA/ccna_network_addressing.md",
+    "HackingNotes",
+    "act1_mod1readings_printable_v2.pdf",
+    "CMSC173/mp2_naive_bayes.pdf",
+    "CMSC173/MP2-Passenger_Flight.pdf",
+    "CMSC173/MP2-Passenger_Flight-f.pdf",
+    "CMSC173/mp2_naive_bayes_final.pdf",
+    "CMSC173/mp2_naive_bayes (1).pdf",
+    "research",
+    "CMSC134/Untitled",
+    "CMSC_176/1-s2.0-S1877050923003162-main.pdf",
+    "Pastes/Pasted image 20240225233331.png",
+    "Pastes/Pasted image 20240225204738.png",
+    "Pastes/Pasted image 20240225204652.png",
+    "Pastes/Pasted image 20240223132330.png",
+    "CMSC134/Untitled.canvas",
     "ICDL/Beeg_data.canvas",
     "Untitled.canvas"
   ]
